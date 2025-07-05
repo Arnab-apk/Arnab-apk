@@ -1,10 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Arnab Mandal</h1>
-<h3 align="center">A passionate Python developer from India</h3>
+<h3 align="center">A passionate PYTHON developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnab-apk&label=Profile%20views&color=0e75b6&style=flat" alt="arnab-apk" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnab-apk" alt="arnab-apk" /></a> </p>
 
 - 🔭 I’m currently working on Python development
 - 🌱 I’m currently learning **100 days Python Course by Angela Yu**
@@ -30,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnab-apk&show_icons=true&locale=en&" alt="arnab-apk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnab-apk&layout=compact" alt="arnab-apk" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnab-apk&" alt="arnab-apk" /></p>
