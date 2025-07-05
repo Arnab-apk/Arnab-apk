@@ -6,13 +6,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnab-apk" alt="arnab-apk" /></a> </p>
 
-- 🔭 I’m currently working on [--------](--------)
-
+- 🔭 I’m currently working on Python development
 - 🌱 I’m currently learning **100 days Python Course by Angela Yu**
 
-- 👯 I’m looking to collaborate on [--------](--------)
+- 👯 I’m looking to collaborate on (not yet)
 
-- 🤝 I’m looking for help with **--------**
+- 🤝 I’m looking for help with (not yet)
 
 - 📫 How to reach me **arnabmandal261@gmail.com**
 
