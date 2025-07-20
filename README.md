@@ -79,7 +79,7 @@
 <h3 align="center">📊 GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnab-apk&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnab-apk&show_icons=true&locale=en&" alt="Top Languages" width="400" />
 </p>
 
 <p align="center">
@@ -87,5 +87,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnab-apk&layout=compact" alt="GitHub Streak" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnab-apk&" alt="GitHub Streak" width="400" />
 </p>
