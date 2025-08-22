@@ -92,16 +92,22 @@
 
 <br/>
 
-<h3 align="center">📊 GitHub Stats:</h3>
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karfa113&layout=compact&langs_count=8&card_width=340&theme=transparent&hide_border=false&border_radius=12&cache_seconds=1800" />
+</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=karfa113&show_icons=true&rank_icon=github&theme=transparent&hide_border=false&border_radius=12" alt="GitHub Stats" /> </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnab-apk&show_icons=true&locale=en&" alt="Top Languages" width="400" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=karfa113&theme=transparent&hide_border=false&border_radius=12" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arnab-apk&show_icons=true&locale=en" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karfa113&theme=github-compact&bg_color=transparent&hide_border=false&area=true" width="100%"/>
 </p>
 
+
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnab-apk&" alt="GitHub Streak" width="400" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"/>
 </p>
