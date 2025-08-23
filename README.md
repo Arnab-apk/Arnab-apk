@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Arnab Mandal</h1>
-<h3 align="center">A passionate PYTHON developer from India</h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=0e75b6&center=true&vCenter=true&lines=Hello+👋,+There!;This+is+Arnab+Mandal;Let's have a quick Introduction!" alt="Typing SVG">
+  </a>
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arnab-apk&label=Profile%20views&color=0e75b6&style=flat" alt="arnab-apk" />
