@@ -100,7 +100,7 @@
 <!-- Top Languages -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Arnab-apk&layout=compact&langs_count=8&card_width=340&theme=tokyonight&hide_border=false&border_radius=12&cache_seconds=1800">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Arnab-apk&layout=compact&langs_count=8&card_width=340&theme=yellow&hide_border=false&border_radius=12&cache_seconds=1800">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Arnab-apk&layout=compact&langs_count=8&card_width=340&theme=default&hide_border=false&border_radius=12&cache_seconds=1800">
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arnab-apk&layout=compact&langs_count=8&card_width=340&theme=default&hide_border=false&border_radius=12&cache_seconds=1800" />
   </picture>
@@ -109,7 +109,7 @@
 <!-- Profile Stats -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Arnab-apk&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=false&border_radius=12">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Arnab-apk&show_icons=true&rank_icon=github&theme=yellow&hide_border=false&border_radius=12">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Arnab-apk&show_icons=true&rank_icon=github&theme=default&hide_border=false&border_radius=12">
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Arnab-apk&show_icons=true&rank_icon=github&theme=default&hide_border=false&border_radius=12" />
   </picture>
@@ -118,7 +118,7 @@
 <!-- Streak -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=Arnab-apk&theme=tokyonight&hide_border=false&border_radius=12">
+    <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=Arnab-apk&theme=yellow&hide_border=false&border_radius=12">
     <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=Arnab-apk&theme=default&hide_border=false&border_radius=12">
     <img alt="GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=Arnab-apk&theme=default&hide_border=false&border_radius=12" />
   </picture>
@@ -127,7 +127,7 @@
 <!-- Activity Graph -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arnab-apk&theme=tokyo-night&bg_color=transparent&hide_border=false&area=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arnab-apk&theme=yellow&bg_color=transparent&hide_border=false&area=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arnab-apk&theme=github-compact&bg_color=transparent&hide_border=false&area=true">
     <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Arnab-apk&theme=github-compact&bg_color=transparent&hide_border=false&area=true" />
   </picture>
