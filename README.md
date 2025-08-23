@@ -112,20 +112,24 @@
   </picture>
 </p>
 
+
 <!-- Activity Graph -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arnab-apk&theme=yellow&bg_color=transparent&hide_border=false&area=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arnab-apk&theme=github-compact&bg_color=transparent&hide_border=false&area=true">
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Arnab-apk&theme=github-compact&bg_color=transparent&hide_border=false&area=true" />
+    <!-- Dark Mode (Yellow) -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arnab-apk&bg_color=00000000&color=FFD700&line=FFD700&point=FFD700&area_color=FFD700&hide_border=false&area=true">
+    <!-- Light Mode -->
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arnab-apk&theme=github-compact&bg_color=00000000&hide_border=false&area=true">
+    <!-- Fallback -->
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Arnab-apk&theme=github-compact&bg_color=00000000&hide_border=false&area=true" />
   </picture>
 </p>
 
 <!-- Footer Wave -->
-<p align="center">
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=yellow&height=70&section=footer"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=70&section=footer"/>
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"/>
     <img alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"/>
   </picture>
-</p>
+</div>
