@@ -1,11 +1,16 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <picture>
-      <!-- Dark mode (Yellow) -->
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=800&color=FFD700&center=true&vCenter=true&lines=Hello+👋;Hola+👋;Bonjour+👋;Hallo+👋;Ciao+👋;Olá+👋;Привет+👋;你好+👋;こんにちは+👋;안녕하세요+👋;नमस्ते+👋;مرحبا+👋;Merhaba+👋;Γειά+👋;Jambo+👋;שלום+👋;This+is+Arnab+Mandal;Nice+to+meet+you!">
 
-      <!-- Light mode (Blue) -->
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=800&color=0e75b6&center=true&vCenter=true&lines=Hello+👋;Hola+👋;Bonjour+👋;Hallo+👋;Ciao+👋;Olá+👋;Привет+👋;你好+👋;こんにちは+👋;안녕하세요+👋;नमस्ते+👋;مرحبا+👋;Merhaba+👋;Γειά+👋;Jambo+👋;שלום+👋;This+is+Arnab+Mandal;Nice+to+meet+you!">
+<!-- Dark mode (Yellow) -->
+<a href="https://git.io/typing-svg#gh-dark-mode-only">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=800&color=FFD700&center=true&vCenter=true&lines=Hello+👋;Hola+👋;Bonjour+👋;Hallo+👋;Ciao+👋;Olá+👋;Привет+👋;你好+👋;こんにちは+👋;안녕하세요+👋;नमस्ते+👋;مرحبا+👋;Merhaba+👋;Γειά+👋;Jambo+👋;שלום+👋;This+is+Arnab+Mandal;Nice+to+meet+you!"/>
+</a>
+
+<!-- Light mode (Blue) -->
+<a href="https://git.io/typing-svg#gh-light-mode-only">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=800&color=0e75b6&center=true&vCenter=true&lines=Hello+👋;Hola+👋;Bonjour+👋;Hallo+👋;Ciao+👋;Olá+👋;Привет+👋;你好+👋;こんにちは+👋;안녕하세요+👋;नमस्ते+👋;مرحبا+👋;Merhaba+👋;Γειά+👋;Jambo+👋;שלום+👋;This+is+Arnab+Mandal;Nice+to+meet+you!"/>
+</a>
+
+</div>
 
       <!-- Fallback -->
       <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=800&color=0e75b6&center=true&vCenter=true&lines=Hello+👋;Hola+👋;Bonjour+👋;Hallo+👋;Ciao+👋;Olá+👋;Привет+👋;你好+👋;こんにちは+👋;안녕하세요+👋;नमस्ते+👋;مرحبا+👋;Merhaba+👋;Γειά+👋;Jambo+👋;שלום+👋;This+is+Arnab+Mandal;Nice+to+meet+you!" alt="Typing SVG" />
