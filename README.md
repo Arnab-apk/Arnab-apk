@@ -12,10 +12,7 @@
 
 </div>
 
-      <!-- Fallback -->
-      <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=800&color=0e75b6&center=true&vCenter=true&lines=Hello+👋;Hola+👋;Bonjour+👋;Hallo+👋;Ciao+👋;Olá+👋;Привет+👋;你好+👋;こんにちは+👋;안녕하세요+👋;नमस्ते+👋;مرحبا+👋;Merhaba+👋;Γειά+👋;Jambo+👋;שלום+👋;This+is+Arnab+Mandal;Nice+to+meet+you!" alt="Typing SVG" />
-    </picture>
-  </a>
+      
 </div>
 
 <p align="center">
