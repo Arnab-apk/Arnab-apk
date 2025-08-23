@@ -3,18 +3,22 @@
     <picture>
       <!-- Dark mode (Yellow) -->
       <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=800&color=FFD700&center=true&vCenter=true&lines=Hello+👋;Hola+👋;Bonjour+👋;Hallo+👋;Ciao+👋;Olá+👋;Привет+👋;你好+👋;こんにちは+👋;안녕하세요+👋;नमस्ते+👋;مرحبا+👋;Merhaba+👋;Γειά+👋;Jambo+👋;שלום+👋;This+is+Arnab+Mandal;Nice+to+meet+you!">
-      
+
       <!-- Light mode (Blue) -->
       <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=800&color=0e75b6&center=true&vCenter=true&lines=Hello+👋;Hola+👋;Bonjour+👋;Hallo+👋;Ciao+👋;Olá+👋;Привет+👋;你好+👋;こんにちは+👋;안녕하세요+👋;नमस्ते+👋;مرحبا+👋;Merhaba+👋;Γειά+👋;Jambo+👋;שלום+👋;This+is+Arnab+Mandal;Nice+to+meet+you!">
-      
+
       <!-- Fallback -->
-      <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=800&color=0e75b6&center=true&vCenter=true&lines=Hello+👋;Hola+👋;Bonjour+👋;Hallo+👋;Ciao+👋;Olá+👋;Привет+👋;你好+👋;こんにちは+👋;안녕하세요+👋;नमस्ते+👋;مرحبا+👋;Merhaba+👋;Γειά+👋;Jambo+👋;שלום+👋;This+is+Arnab+Mandal;Nice+to+meet+you!" alt="Typing SVG"/>
+      <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=800&color=0e75b6&center=true&vCenter=true&lines=Hello+👋;Hola+👋;Bonjour+👋;Hallo+👋;Ciao+👋;Olá+👋;Привет+👋;你好+👋;こんにちは+👋;안녕하세요+👋;नमस्ते+👋;مرحبا+👋;Merhaba+👋;Γειά+👋;Jambo+👋;שלום+👋;This+is+Arnab+Mandal;Nice+to+meet+you!" alt="Typing SVG" />
     </picture>
   </a>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arnab-apk&label=Profile%20views&color=0e75b6&style=flat" alt="arnab-apk" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=arnab-apk&label=Profile%20views&color=FFD700&style=flat">
+    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=arnab-apk&label=Profile%20views&color=0e75b6&style=flat">
+    <img src="https://komarev.com/ghpvc/?username=arnab-apk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </picture>
 </p>
 
 <div align="center">
@@ -60,46 +64,19 @@
 <h3 align="center">🛠️ Languages and Tools:</h3>
 
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-</a>
-
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  </a>
-  <a href="https://dart.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" />
-  </a>
-  <a href="https://jupyter.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
-  </a>
-  <a href="https://flutter.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-</a>
-<a href="https://nodejs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
-</a>
-  <a href="https://www.mathworks.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" /></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" /></a>
+  <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" /></a>
+  <a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40" /></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" /></a>
+  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" /></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" /></a>
+  <a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40" /></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /></a>
 </p>
 
 <br/>
