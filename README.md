@@ -1,6 +1,15 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=800&color=0e75b6&center=true&vCenter=true&lines=Hello+👋;Hola+👋;Bonjour+👋;Hallo+👋;Ciao+👋;Olá+👋;Привет+👋;你好+👋;こんにちは+👋;안녕하세요+👋;नमस्ते+👋;مرحبا+👋;Merhaba+👋;Γειά+👋;Jambo+👋;שלום+👋;This+is+Arnab+Mandal;Nice+to+meet+you!" alt="Typing SVG" />
+    <picture>
+      <!-- Dark mode (Yellow) -->
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=800&color=FFD700&center=true&vCenter=true&lines=Hello+👋;Hola+👋;Bonjour+👋;Hallo+👋;Ciao+👋;Olá+👋;Привет+👋;你好+👋;こんにちは+👋;안녕하세요+👋;नमस्ते+👋;مرحبا+👋;Merhaba+👋;Γειά+👋;Jambo+👋;שלום+👋;This+is+Arnab+Mandal;Nice+to+meet+you!">
+      
+      <!-- Light mode (Blue) -->
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=800&color=0e75b6&center=true&vCenter=true&lines=Hello+👋;Hola+👋;Bonjour+👋;Hallo+👋;Ciao+👋;Olá+👋;Привет+👋;你好+👋;こんにちは+👋;안녕하세요+👋;नमस्ते+👋;مرحبا+👋;Merhaba+👋;Γειά+👋;Jambo+👋;שלום+👋;This+is+Arnab+Mandal;Nice+to+meet+you!">
+      
+      <!-- Fallback -->
+      <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=800&color=0e75b6&center=true&vCenter=true&lines=Hello+👋;Hola+👋;Bonjour+👋;Hallo+👋;Ciao+👋;Olá+👋;Привет+👋;你好+👋;こんにちは+👋;안녕하세요+👋;नमस्ते+👋;مرحبا+👋;Merhaba+👋;Γειά+👋;Jambo+👋;שלום+👋;This+is+Arnab+Mandal;Nice+to+meet+you!" alt="Typing SVG"/>
+    </picture>
   </a>
 </div>
 
@@ -130,5 +139,14 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arnab-apk&theme=yellow&bg_color=transparent&hide_border=false&area=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arnab-apk&theme=github-compact&bg_color=transparent&hide_border=false&area=true">
     <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Arnab-apk&theme=github-compact&bg_color=transparent&hide_border=false&area=true" />
+  </picture>
+</p>
+
+<!-- Footer Wave -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=yellow&height=70&section=footer"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"/>
+    <img alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"/>
   </picture>
 </p>
