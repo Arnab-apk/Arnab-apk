@@ -175,12 +175,6 @@
     <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Arnab-apk&theme=github-compact&bg_color=00000000&hide_border=false&area=true" />
   </picture>
 </p>
-<!--snake game-->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Arnab-apk/Arnab-apk/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Arnab-apk/Arnab-apk/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/Arnab-apk/Arnab-apk/blob/output/github-snake.svg" />
-</picture>
 
 <!-- Footer Wave -->
 <div align="center">
