@@ -102,13 +102,14 @@
     <img height="160px" src="https://streak-stats.demolab.com?user=Arnab-apk&ring=000000&fire=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=000000&currStreakNum=000000&background=00000000&hide_border=false#gh-light-mode-only"/>
   </a>
 
-  <!-- Top Languages -->
-  <a href="https://github.com/Arnab-apk#gh-dark-mode-only">
-    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arnab-apk&layout=compact&langs_count=8&title_color=FFD700&text_color=FFD700&bg_color=00000000&hide_border=false#gh-dark-mode-only" />
-  </a>
-  <a href="https://github.com/Arnab-apk#gh-light-mode-only">
-    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arnab-apk&layout=compact&langs_count=8&title_color=000000&text_color=000000&bg_color=00000000&hide_border=false#gh-light-mode-only" />
-  </a>
+<!-- Top Languages -->
+<a href="https://github.com/Arnab-apk#gh-dark-mode-only">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arnab-apk&layout=compact&langs_count=8&card_width=420&title_color=FFD700&text_color=FFD700&bg_color=00000000&hide_border=false#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/Arnab-apk#gh-light-mode-only">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arnab-apk&layout=compact&langs_count=8&card_width=420&title_color=000000&text_color=000000&bg_color=00000000&hide_border=false#gh-light-mode-only" />
+</a>
+
 
 </div>
 
