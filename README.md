@@ -183,15 +183,21 @@
 
 ---
 
-<!-- Activity Graph -->
+<!-- Activity Graph (Bigger + Gold Glow) -->
 <p align="center">
   <picture>
-    <!-- Dark Mode (Yellow) -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arnab-apk&bg_color=00000000&color=FFD700&line=FFD700&point=FFD700&area_color=FFD700&hide_border=false&area=true&height=250">
+    <!-- Dark Mode -->
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arnab-apk&custom_title=Arnab%20Mandal%27s%20Activity%20Graph&bg_color=00000000&color=FFD700&line=F7C72A&point=FFF08A&area=true&area_color=FFE97A&hide_border=false&height=320">
     <!-- Light Mode -->
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arnab-apk&theme=github-compact&bg_color=00000000&hide_border=false&area=true&height=250">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arnab-apk&custom_title=Arnab%20Mandal%27s%20Activity%20Graph&theme=github-compact&bg_color=00000000&color=0e75b6&line=5aa7d6&point=a6d4f2&area=true&area_color=cfeaf9&hide_border=false&height=320">
     <!-- Fallback -->
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Arnab-apk&theme=github-compact&bg_color=00000000&hide_border=false&area=true&height=250" />
+    <img
+      alt="Activity Graph"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Arnab-apk&theme=github-compact&bg_color=00000000&color=0e75b6&line=5aa7d6&point=a6d4f2&area=true&area_color=cfeaf9&hide_border=false&height=320" />
   </picture>
 </p>
 
