@@ -5,9 +5,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&lines=Hello+👋;Hola+👋;Bonjour+👋;Hallo+👋;Ciao+👋;Olá+👋;नमस्ते+👋;Jambo+👋;This+is+Arnab+Mandal;Nice+to+meet+you!"/>
 </a>
 
-<!-- Light mode (Blue) -->
+<!-- Light mode (Black) -->
 <a href="https://git.io/typing-svg#gh-light-mode-only">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&pause=1000&color=0e75b6&center=true&vCenter=true&lines=Hello+👋;Hola+👋;Bonjour+👋;Hallo+👋;Ciao+👋;Olá+👋;Привет+👋;你好+👋;こんにちは+👋;안녕하세요+👋;नमस्ते+👋;مرحبا+👋;Merhaba+👋;Γειά+👋;Jambo+👋;שלום+👋;This+is+Arnab+Mandal;Nice+to+meet+you!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&pause=1000&color=000000&center=true&vCenter=true&lines=Hello+👋;Hola+👋;Bonjour+👋;Hallo+👋;Ciao+👋;Olá+👋;Привет+👋;你好+👋;こんにちは+👋;안녕하세요+👋;नमस्ते+👋;مرحبا+👋;Merhaba+👋;Γειά+👋;Jambo+👋;שלום+👋;This+is+Arnab+Mandal;Nice+to+meet+you!"/>
 </a>
 
 </div>
@@ -26,9 +26,16 @@
 
 ### 👨‍💻 About Me
 
-<a href="https://git.io/typing-svg">
+<!-- Dark mode (Yellow) -->
+<a href="https://git.io/typing-svg#gh-dark-mode-only">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=650&lines=🔭+I’m+currently+working+on+Python+Development;🌱+Currently+live+at+100+Days+Python+Course+by+Angela;👯+Looking+to+collaborate+on+(not+yet);🤝+Looking+for+help+with+(not+yet);📫+Reach+me:+arnabmandal261@gmail.com;⚡+Fun+fact:+Just+mad+about+jamming+with+friends!!+🎶" alt="Typing SVG" />
 </a>
+
+<!-- Light mode (Black) -->
+<a href="https://git.io/typing-svg#gh-light-mode-only">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=🔭+I’m+currently+working+on+Python+Development;🌱+Currently+live+at+100+Days+Python+Course+by+Angela;👯+Looking+to+collaborate+on+(not+yet);🤝+Looking+for+help+with+(not+yet);📫+Reach+me:+arnabmandal261@gmail.com;⚡+Fun+fact:+Just+mad+about+jamming+with+friends!!+🎶" alt="Typing SVG" />
+</a>
+
 
 </div>
 
@@ -53,9 +60,16 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
+<!-- Dark mode (Yellow) -->
+<a href="https://git.io/typing-svg#gh-dark-mode-only">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&lines=💻+PROGRAMMING+LANGUAGES" alt="Typing SVG" />
 </a>
+
+<!-- Light mode (Black) -->
+<a href="https://git.io/typing-svg#gh-light-mode-only">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=💻+PROGRAMMING+LANGUAGES" alt="Typing SVG" />
+</a>
+
 
 <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" /></a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" /></a>
@@ -73,9 +87,18 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&lines=⚡+FRAMEWORKS+%26+LIBRARIES" alt="Typing SVG" />
-</a>
+  <!-- Dark mode (Yellow) -->
+  <a href="https://git.io/typing-svg#gh-dark-mode-only">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&lines=⚡+FRAMEWORKS+%26+LIBRARIES" alt="Typing SVG" />
+  </a>
+
+  <!-- Light mode (Black) -->
+  <a href="https://git.io/typing-svg#gh-light-mode-only">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=⚡+FRAMEWORKS+%26+LIBRARIES" alt="Typing SVG" />
+  </a>
+
+</div>
+
 
 <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" /></a>
 <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" /></a>
@@ -89,9 +112,18 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&lines=☁️+CLOUD+%26+DEVOPS" alt="Typing SVG" />
-</a>
+  <!-- Dark mode (Yellow) -->
+  <a href="https://git.io/typing-svg#gh-dark-mode-only">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&lines=☁️+CLOUD+%26+DEVOPS" alt="Typing SVG" />
+  </a>
+
+  <!-- Light mode (Black) -->
+  <a href="https://git.io/typing-svg#gh-light-mode-only">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=☁️+CLOUD+%26+DEVOPS" alt="Typing SVG" />
+  </a>
+
+</div>
+
 
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40" /></a>
 <a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40" /></a>
@@ -113,9 +145,18 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&lines=🗄️+DATABASES" alt="Typing SVG" />
-</a>
+  <!-- Dark mode (Yellow) -->
+  <a href="https://git.io/typing-svg#gh-dark-mode-only">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&lines=🗄️+DATABASES" alt="Typing SVG" />
+  </a>
+
+  <!-- Light mode (Black) -->
+  <a href="https://git.io/typing-svg#gh-light-mode-only">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=🗄️+DATABASES" alt="Typing SVG" />
+  </a>
+
+</div>
+
 
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" /></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" /></a>
@@ -130,9 +171,18 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&lines=🎨+DESIGN+%26+OTHER+TOOLS" alt="Typing SVG" />
-</a>
+  <!-- Dark mode (Yellow) -->
+  <a href="https://git.io/typing-svg#gh-dark-mode-only">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&lines=🎨+DESIGN+%26+OTHER+TOOLS" alt="Typing SVG" />
+  </a>
+
+  <!-- Light mode (Black) -->
+  <a href="https://git.io/typing-svg#gh-light-mode-only">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=🎨+DESIGN+%26+OTHER+TOOLS" alt="Typing SVG" />
+  </a>
+
+</div>
+
 
 <a href="https://www.adobe.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/adobe-1.svg" alt="Adobe" width="40" height="40" /></a>
 <a href="https://www.photoshop.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" width="40" height="40" /></a>
@@ -145,15 +195,32 @@
 
 
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<div align="center">
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arnab-apk&layout=compact&langs_count=8&card_width=340&theme=transparent&hide_border=false&border_radius=12&cache_seconds=1800" />
+  <!-- Dark mode (Yellow) -->
+  <a href="https://git.io/typing-svg#gh-dark-mode-only">
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&lines=⚡+GitHub+Stats+⚡" alt="Typing SVG" />
+  </a>
+
+  <!-- Light mode (Black) -->
+  <a href="https://git.io/typing-svg#gh-light-mode-only">
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=⚡+GitHub+Stats+⚡" alt="Typing SVG" />
+  </a>
+
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arnab-apk&layout=compact&langs_count=8&card_width=340&theme=transparent&hide_border=false&border_radius=12&cache_seconds=1800" />
 </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Arnab-apk&show_icons=true&rank_icon=github&theme=transparent&hide_border=false&border_radius=12" alt="GitHub Stats" /> </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arnab-apk&show_icons=true&rank_icon=github&theme=transparent&hide_border=false&border_radius=12" alt="GitHub Stats" />
+</p>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Arnab-apk&theme=transparent&hide_border=false&border_radius=12" alt="GitHub Streak" />
 </p>
+
 
 
 ---
