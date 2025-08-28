@@ -143,42 +143,17 @@
 
 ---
 
-<!-- GitHub Stats Section -->
-<div align="center">
-
-### 📊 **GitHub Stats**
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
-  <!-- GitHub Stats -->
-  <a href="https://github.com/Arnab-apk#gh-dark-mode-only">
-    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Arnab-apk&show_icons=true&title_color=FFD700&text_color=FFD700&icon_color=FFD700&bg_color=00000000&hide_border=false#gh-dark-mode-only" />
-  </a>
-  <a href="https://github.com/Arnab-apk#gh-light-mode-only">
-    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Arnab-apk&show_icons=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=00000000&hide_border=false#gh-light-mode-only" />
-  </a>
-
-  <!-- Streak Stats -->
-  <a href="https://git.io/streak-stats#gh-dark-mode-only">
-    <img height="160px" src="https://streak-stats.demolab.com?user=Arnab-apk&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideNums=FFD700&sideLabels=FFD700&dates=FFD700&currStreakNum=FFD700&background=00000000&hide_border=false#gh-dark-mode-only"/>
-  </a>
-  <a href="https://git.io/streak-stats#gh-light-mode-only">
-    <img height="160px" src="https://streak-stats.demolab.com?user=Arnab-apk&ring=000000&fire=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=000000&currStreakNum=000000&background=00000000&hide_border=false#gh-light-mode-only"/>
-  </a>
-
-  <!-- Top Languages -->
-  <a href="https://github.com/Arnab-apk#gh-dark-mode-only">
-    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arnab-apk&layout=compact&langs_count=8&card_width=420&title_color=FFD700&text_color=FFD700&bg_color=00000000&hide_border=false#gh-dark-mode-only" />
-  </a>
-  <a href="https://github.com/Arnab-apk#gh-light-mode-only">
-    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arnab-apk&layout=compact&langs_count=8&card_width=420&title_color=000000&text_color=000000&bg_color=00000000&hide_border=false#gh-light-mode-only" />
-  </a>
-
-</div>
-
-</div>
 
 
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arnab-apk&layout=compact&langs_count=8&card_width=340&theme=transparent&hide_border=false&border_radius=12&cache_seconds=1800" />
+</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Arnab-apk&show_icons=true&rank_icon=github&theme=transparent&hide_border=false&border_radius=12" alt="GitHub Stats" /> </p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Arnab-apk&theme=transparent&hide_border=false&border_radius=12" alt="GitHub Streak" />
+</p>
 
 
 ---
