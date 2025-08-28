@@ -155,19 +155,20 @@
     <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=🗄️+DATABASES" alt="Typing SVG" />
   </a>
 
+  <br/>
+
+  <!-- Database Icons -->
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" /></a>
+  <a href="https://mariadb.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40" height="40" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" /></a>
+  <a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40" /></a>
+  <a href="https://aws.amazon.com/dynamodb/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/aws-dynamodb.svg" alt="DynamoDB" width="40" height="40" /></a>
+  <a href="https://cassandra.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="Cassandra" width="40" height="40" /></a>
+
 </div>
 
-
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" /></a>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" /></a>
-<a href="https://mariadb.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40" height="40" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" /></a>
-<a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40" /></a>
-<a href="https://aws.amazon.com/dynamodb/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/aws-dynamodb.svg" alt="DynamoDB" width="40" height="40" /></a>
-<a href="https://cassandra.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="Cassandra" width="40" height="40" /></a>
-
-</div>
-
+---
 
 <div align="center">
 
@@ -181,13 +182,13 @@
     <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=🎨+DESIGN+%26+OTHER+TOOLS" alt="Typing SVG" />
   </a>
 
-</div>
+  <br/>
 
-
-<a href="https://www.adobe.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/adobe-1.svg" alt="Adobe" width="40" height="40" /></a>
-<a href="https://www.photoshop.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" width="40" height="40" /></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" /></a>
-<a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40" /></a>
+  <!-- Tools Icons -->
+  <a href="https://www.adobe.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/adobe-1.svg" alt="Adobe" width="40" height="40" /></a>
+  <a href="https://www.photoshop.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" width="40" height="40" /></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" /></a>
+  <a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40" /></a>
 
 </div>
 
@@ -195,32 +196,40 @@
 
 
 
-<div align="center">
-
-  <!-- Dark mode (Yellow) -->
-  <a href="https://git.io/typing-svg#gh-dark-mode-only">
-    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&lines=⚡+GitHub+Stats+⚡" alt="Typing SVG" />
-  </a>
-
-  <!-- Light mode (Black) -->
-  <a href="https://git.io/typing-svg#gh-light-mode-only">
-    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=⚡+GitHub+Stats+⚡" alt="Typing SVG" />
-  </a>
-
-</div>
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arnab-apk&layout=compact&langs_count=8&card_width=340&theme=transparent&hide_border=false&border_radius=12&cache_seconds=1800" />
+  <picture>
+    <!-- Dark -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Arnab-apk&layout=compact&langs_count=8&card_width=340&theme=transparent&hide_border=false&border_radius=12&title_color=FFD700&text_color=FFD700&icon_color=FFD700">
+    <!-- Light -->
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Arnab-apk&layout=compact&langs_count=8&card_width=340&theme=transparent&hide_border=false&border_radius=12&title_color=000000&text_color=000000&icon_color=000000">
+    <!-- Fallback -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arnab-apk&layout=compact&langs_count=8&card_width=340&theme=transparent&hide_border=false&border_radius=12&title_color=000000&text_color=000000&icon_color=000000" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arnab-apk&show_icons=true&rank_icon=github&theme=transparent&hide_border=false&border_radius=12" alt="GitHub Stats" />
+  <picture>
+    <!-- Dark -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Arnab-apk&show_icons=true&rank_icon=github&theme=transparent&hide_border=false&border_radius=12&title_color=FFD700&text_color=FFD700&icon_color=FFD700">
+    <!-- Light -->
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Arnab-apk&show_icons=true&rank_icon=github&theme=transparent&hide_border=false&border_radius=12&title_color=000000&text_color=000000&icon_color=000000">
+    <!-- Fallback -->
+    <img src="https://github-readme-stats.vercel.app/api?username=Arnab-apk&show_icons=true&rank_icon=github&theme=transparent&hide_border=false&border_radius=12&title_color=000000&text_color=000000&icon_color=000000" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Arnab-apk&theme=transparent&hide_border=false&border_radius=12" alt="GitHub Streak" />
+  <picture>
+    <!-- Dark -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=Arnab-apk&theme=transparent&hide_border=false&border_radius=12&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideNums=FFD700&sideLabels=FFD700">
+    <!-- Light -->
+    <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=Arnab-apk&theme=transparent&hide_border=false&border_radius=12&ring=000000&fire=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000">
+    <!-- Fallback -->
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Arnab-apk&theme=transparent&hide_border=false&border_radius=12&ring=000000&fire=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000" />
+  </picture>
 </p>
-
 
 
 ---
