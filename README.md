@@ -24,17 +24,45 @@
 
 <div align="center">
 
-### 👨‍💻 About Me
+---
 
-<!-- Dark mode (Yellow) -->
-<a href="https://git.io/typing-svg#gh-dark-mode-only">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=650&lines=🔭+I’m+currently+working+on+Python+Development;🌱+Currently+live+at+100+Days+Python+Course+by+Angela;👯+Looking+to+collaborate+on+(not+yet);🤝+Looking+for+help+with+(not+yet);📫+Reach+me:+arnabmandal261@gmail.com;⚡+Fun+fact:+Just+mad+about+jamming+with+friends!!+🎶" alt="Typing SVG" />
-</a>
+## 👋 About Me  
 
-<!-- Light mode (Black) -->
-<a href="https://git.io/typing-svg#gh-light-mode-only">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=🔭+I’m+currently+working+on+Python+Development;🌱+Currently+live+at+100+Days+Python+Course+by+Angela;👯+Looking+to+collaborate+on+(not+yet);🤝+Looking+for+help+with+(not+yet);📫+Reach+me:+arnabmandal261@gmail.com;⚡+Fun+fact:+Just+mad+about+jamming+with+friends!!+🎶" alt="Typing SVG" />
-</a>
+Hey there! I'm a curious tech enthusiast currently in my **3rd semester of B.Tech in Computer Science & Engineering** 🚀.  
+Right now, I'm busy bending Python to my will — one project at a time 🐍💻  
+
+---
+
+## 🌱 What I’m Learning
+- 🔹 Diving deep into **Object Oriented Programming** in Python  
+- 🔹 Exploring **GUI-based Python applications** 🖥️  
+- 🔹 Learning the foundations of **Cloud Computing** ☁️ _(AWS, GCP, and DevOps basics)_
+- 🔹 You might see a lot of technologies down there but i am still exploring what is best among them i am not at all pro at all of these lol! 
+
+---
+
+## 🎯 My Current Goals
+- ⚡ Master **C++ and Java** for a rock-solid DSA foundation  
+- 🤖 Experiment with **AI + Automation projects** to solve everyday problems in fun ways  
+- ☁️ Build and deploy **cloud-powered apps** that scale and run in real-world environments
+
+---
+
+## 🛠️ What I’m Working On
+📂 Check out my journey of **Full Stack Python Development (0 → Her0)** here 👉  
+[**100-Days-Python-Course**](https://github.com/Arnab-apk/100-days-Python-Course) 🚀  
+
+---
+
+## 🎉 Fun Zone
+🎮 Debugging feels like being a detective… in a crime where **you’re also the murderer** 🔍💥  
+😅 My favorite keyboard shortcut? → `Ctrl + Z` (undoing my life choices, one bug at a time)  
+⚡ Motto: *"Code. Break. Fix. Repeat. Until it looks like magic."*  
+
+---
+
+<!-- Your existing sections like Connect with Me, Languages & Tools, Stats, Activity Graph, Footer stay as they are -->
+
 
 
 </div>
