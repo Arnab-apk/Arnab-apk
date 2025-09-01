@@ -12,7 +12,7 @@
 
 </div>
 
----
+
 
 <p align="center">
   <picture>
@@ -24,7 +24,7 @@
 
 <div align="center">
 
----
+
 
 ## 👋 About Me  
 
