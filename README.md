@@ -41,18 +41,27 @@ Right now, I'm busy bending Python to my will — one project at a time 🐍💻
 
 ---
 
-## 🎯 My Current Goals
-- ⚡ Master **C++ and Java** for a rock-solid DSA foundation  
-- 🤖 Experiment with **AI + Automation projects** to solve everyday problems in fun ways  
-- ☁️ Build and deploy **cloud-powered apps** that scale and run in real-world environments
+<h2 align="center">🎯 My Current Goals</h2>
+
+- ⚡ **Master C++ & Java** — building a rock-solid foundation in Data Structures & Algorithms  
+- 🤖 **Create AI + Automation Projects** — solving everyday problems in creative ways  
+- ☁️ **Develop Cloud-Powered Apps** — scalable, real-world solutions that make an impact  
 
 ---
 
-## 🛠️ What I’m Working On
-📂 Check out my journey of **Full Stack Python Development (0 → Her0)** here 👉  
-[**100-Days-Python-Course**](https://github.com/Arnab-apk/100-days-Python-Course) 🚀  
+<h2 align="center">🛠️ What I’m Working On</h2>
+
+📚 Embarking on a **Full Stack Python Development** journey *(from 0 → Hero)* →  
+👉 [**100-Days-Python-Course**](https://github.com/Arnab-apk/100-days-Python-Course) 🚀  
+
+📱 Currently exploring **Augmented Reality Mobile App Development** using **Unity Engine 5**
 
 ---
+
+<p align="center">
+  <i>“Learning, building, and innovating — one project at a time.”</i>
+</p>
+
 
 ## 🎉 Fun Zone
 🎮 Debugging feels like being a detective… in a crime where **you’re also the murderer** 🔍💥  
@@ -221,10 +230,38 @@ Right now, I'm busy bending Python to my will — one project at a time 🐍💻
 </div>
 
 ---
+<div align="center">
 
+  <!-- Dark mode header (Yellow) -->
+  <a href="https://git.io/typing-svg#gh-dark-mode-only">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&lines=🕶️+AR+DEVELOPMENT+TOOLS" alt="Typing SVG" />
+  </a>
 
+  <!-- Light mode header (Black) -->
+  <a href="https://git.io/typing-svg#gh-light-mode-only">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=🕶️+AR+DEVELOPMENT+TOOLS" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <!-- Core AR Development Tools Icons -->
+  <a href="https://docs.microsoft.com/dotnet/csharp/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
+  </a>
+  <a href="https://unity.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="40" height="40" />
+  </a>
+  <a href="https://developers.google.com/ar" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="ARCore / Android" width="40" height="40" />
+  </a>
+
+</div>
+
+<!-- Separator line -->
+<hr style="border: 1px solid #ddd; margin: 40px 0;" />
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
+
 
 <p align="center">
   <picture>
