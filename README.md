@@ -99,12 +99,12 @@ Right now, I'm busy bending Python to my will — one project at a time 🐍💻
 
 <!-- Dark mode (Yellow) -->
 <a href="https://git.io/typing-svg#gh-dark-mode-only">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&lines=💻+PROGRAMMING+LANGUAGES" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&lines=PROGRAMMING+LANGUAGES" alt="Typing SVG" />
 </a>
 
 <!-- Light mode (Black) -->
 <a href="https://git.io/typing-svg#gh-light-mode-only">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=💻+PROGRAMMING+LANGUAGES" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=PROGRAMMING+LANGUAGES" alt="Typing SVG" />
 </a>
 
 
@@ -126,12 +126,12 @@ Right now, I'm busy bending Python to my will — one project at a time 🐍💻
 
   <!-- Dark mode (Yellow) -->
   <a href="https://git.io/typing-svg#gh-dark-mode-only">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&lines=⚡+FRAMEWORKS+%26+LIBRARIES" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&lines=FRAMEWORKS+%26+LIBRARIES" alt="Typing SVG" />
   </a>
 
   <!-- Light mode (Black) -->
   <a href="https://git.io/typing-svg#gh-light-mode-only">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=⚡+FRAMEWORKS+%26+LIBRARIES" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=FRAMEWORKS+%26+LIBRARIES" alt="Typing SVG" />
   </a>
 
 </div>
@@ -151,12 +151,12 @@ Right now, I'm busy bending Python to my will — one project at a time 🐍💻
 
   <!-- Dark mode (Yellow) -->
   <a href="https://git.io/typing-svg#gh-dark-mode-only">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&lines=☁️+CLOUD+%26+DEVOPS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&lines=CLOUD+%26+DEVOPS" alt="Typing SVG" />
   </a>
 
   <!-- Light mode (Black) -->
   <a href="https://git.io/typing-svg#gh-light-mode-only">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=☁️+CLOUD+%26+DEVOPS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=CLOUD+%26+DEVOPS" alt="Typing SVG" />
   </a>
 
 </div>
@@ -184,12 +184,12 @@ Right now, I'm busy bending Python to my will — one project at a time 🐍💻
 
   <!-- Dark mode (Yellow) -->
   <a href="https://git.io/typing-svg#gh-dark-mode-only">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&lines=🗄️+DATABASES" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&lines=DATABASES" alt="Typing SVG" />
   </a>
 
   <!-- Light mode (Black) -->
   <a href="https://git.io/typing-svg#gh-light-mode-only">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=🗄️+DATABASES" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=DATABASES" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -211,12 +211,12 @@ Right now, I'm busy bending Python to my will — one project at a time 🐍💻
 
   <!-- Dark mode (Yellow) -->
   <a href="https://git.io/typing-svg#gh-dark-mode-only">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&lines=🎨+DESIGN+%26+OTHER+TOOLS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&lines=DESIGN+%26+OTHER+TOOLS" alt="Typing SVG" />
   </a>
 
   <!-- Light mode (Black) -->
   <a href="https://git.io/typing-svg#gh-light-mode-only">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=🎨+DESIGN+%26+OTHER+TOOLS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=DESIGN+%26+OTHER+TOOLS" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -234,12 +234,12 @@ Right now, I'm busy bending Python to my will — one project at a time 🐍💻
 
   <!-- Dark mode header (Yellow) -->
   <a href="https://git.io/typing-svg#gh-dark-mode-only">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&lines=🕶️+AR+DEVELOPMENT+TOOLS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&lines=AR+DEVELOPMENT+TOOLS" alt="Typing SVG" />
   </a>
 
   <!-- Light mode header (Black) -->
   <a href="https://git.io/typing-svg#gh-light-mode-only">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=🕶️+AR+DEVELOPMENT+TOOLS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=AR+DEVELOPMENT+TOOLS" alt="Typing SVG" />
   </a>
 
   <br/>
