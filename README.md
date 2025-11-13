@@ -93,167 +93,111 @@ Right now, I'm busy bending Python to my will — one project at a time 🐍💻
 <h3 align="center">🛠️ Languages & Tools</h3>
 
 <div align="center">
-<div align="center">
 
-<div align="center">
-
-<!-- Dark mode (Yellow) -->
+<!-- PROGRAMMING LANGUAGES -->
 <a href="https://git.io/typing-svg#gh-dark-mode-only">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&lines=PROGRAMMING+LANGUAGES" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&lines=PROGRAMMING+LANGUAGES" />
 </a>
 
-<!-- Light mode (Black) -->
 <a href="https://git.io/typing-svg#gh-light-mode-only">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=PROGRAMMING+LANGUAGES" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=PROGRAMMING+LANGUAGES" />
 </a>
 
+<br/>
 
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" /></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" /></a>
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" /></a>
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /></a>
-<a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a>
-<a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40" /></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" title="C#"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" title="Java"/>
 
-</div>
+<br/><br/>
 
+<!-- MACHINE LEARNING & AI -->
+<a href="https://git.io/typing-svg#gh-dark-mode-only">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&lines=MACHINE+LEARNING+%26+AI" />
+</a>
 
-<div align="center">
+<a href="https://git.io/typing-svg#gh-light-mode-only">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=MACHINE+LEARNING+%26+AI" />
+</a>
 
-  <!-- Dark mode (Yellow) -->
-  <a href="https://git.io/typing-svg#gh-dark-mode-only">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&lines=FRAMEWORKS+%26+LIBRARIES" alt="Typing SVG" />
-  </a>
+<br/>
 
-  <!-- Light mode (Black) -->
-  <a href="https://git.io/typing-svg#gh-light-mode-only">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=FRAMEWORKS+%26+LIBRARIES" alt="Typing SVG" />
-  </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" title="Scikit-Learn"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" title="OpenCV"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" title="Jupyter Notebook"/>
 
-</div>
+<br/><br/>
 
+<!-- AR & GAME DEV -->
+<a href="https://git.io/typing-svg#gh-dark-mode-only">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&lines=AR+%26+GAME+DEVELOPMENT" />
+</a>
 
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" /></a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" /></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" /></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" /></a>
-<a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" /></a>
+<a href="https://git.io/typing-svg#gh-light-mode-only">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=AR+%26+GAME+DEVELOPMENT" />
+</a>
 
-</div>
+<br/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" title="Unity 3D"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" title="ARCore"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" title="Blender 3D"/>
 
+<br/><br/>
 
-<div align="center">
+<!-- CLOUD -->
+<a href="https://git.io/typing-svg#gh-dark-mode-only">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&lines=CLOUD+COMPUTING" />
+</a>
 
-  <!-- Dark mode (Yellow) -->
-  <a href="https://git.io/typing-svg#gh-dark-mode-only">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&lines=CLOUD+%26+DEVOPS" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg#gh-light-mode-only">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=CLOUD+COMPUTING" />
+</a>
 
-  <!-- Light mode (Black) -->
-  <a href="https://git.io/typing-svg#gh-light-mode-only">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=CLOUD+%26+DEVOPS" alt="Typing SVG" />
-  </a>
+<br/>
 
-</div>
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" title="AWS"/>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" title="Google Cloud"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" title="Firebase (for apps)"/>
 
+<br/><br/>
 
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40" /></a>
-<a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40" /></a>
-<a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40" /></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" /></a>
-<a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40" /></a>
-<a href="https://www.terraform.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40" /></a>
-<a href="https://grafana.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40" /></a>
-<a href="https://www.elastic.co/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" width="40" height="40" /></a>
-<a href="https://prometheus.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="40" height="40" /></a>
-<a href="https://www.jenkins.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40" /></a>
-<a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Apache Kafka" width="40" height="40" /></a>
-<a href="https://github.com/features/actions" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Actions" width="40" height="40" /></a>
-<a href="https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab CI/CD" width="40" height="40" /></a>
-<a href="https://nginx.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" /></a>
+<!-- DATABASES -->
+<a href="https://git.io/typing-svg#gh-dark-mode-only">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&lines=DATABASES" />
+</a>
 
-</div>
+<a href="https://git.io/typing-svg#gh-light-mode-only">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=DATABASES" />
+</a>
 
+<br/>
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
 
-  <!-- Dark mode (Yellow) -->
-  <a href="https://git.io/typing-svg#gh-dark-mode-only">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&lines=DATABASES" alt="Typing SVG" />
-  </a>
+<br/><br/>
 
-  <!-- Light mode (Black) -->
-  <a href="https://git.io/typing-svg#gh-light-mode-only">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=DATABASES" alt="Typing SVG" />
-  </a>
+<!-- DEVELOPMENT TOOLS -->
+<a href="https://git.io/typing-svg#gh-dark-mode-only">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&lines=DEV+TOOLS" />
+</a>
 
-  <br/>
+<a href="https://git.io/typing-svg#gh-light-mode-only">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=DEV+TOOLS" />
+</a>
 
-  <!-- Database Icons -->
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" /></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" /></a>
-  <a href="https://mariadb.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40" height="40" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" /></a>
-  <a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40" /></a>
-  <a href="https://aws.amazon.com/dynamodb/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/aws-dynamodb.svg" alt="DynamoDB" width="40" height="40" /></a>
-  <a href="https://cassandra.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="Cassandra" width="40" height="40" /></a>
+<br/>
 
-</div>
-
----
-
-<div align="center">
-
-  <!-- Dark mode (Yellow) -->
-  <a href="https://git.io/typing-svg#gh-dark-mode-only">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&lines=DESIGN+%26+OTHER+TOOLS" alt="Typing SVG" />
-  </a>
-
-  <!-- Light mode (Black) -->
-  <a href="https://git.io/typing-svg#gh-light-mode-only">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=DESIGN+%26+OTHER+TOOLS" alt="Typing SVG" />
-  </a>
-
-  <br/>
-
-  <!-- Tools Icons -->
-  <a href="https://www.adobe.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/adobe-1.svg" alt="Adobe" width="40" height="40" /></a>
-  <a href="https://www.photoshop.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" width="40" height="40" /></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" /></a>
-  <a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40" /></a>
-
-</div>
-
----
-<div align="center">
-
-  <!-- Dark mode header (Yellow) -->
-  <a href="https://git.io/typing-svg#gh-dark-mode-only">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&lines=AR+DEVELOPMENT+TOOLS" alt="Typing SVG" />
-  </a>
-
-  <!-- Light mode header (Black) -->
-  <a href="https://git.io/typing-svg#gh-light-mode-only">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=AR+DEVELOPMENT+TOOLS" alt="Typing SVG" />
-  </a>
-
-  <br/>
-
-  <!-- Core AR Development Tools Icons -->
-  <a href="https://docs.microsoft.com/dotnet/csharp/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
-  </a>
-  <a href="https://unity.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="40" height="40" />
-  </a>
-  <a href="https://developers.google.com/ar" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="ARCore / Android" width="40" height="40" />
-  </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" title="GitHub"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40" title="Android Studio"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" title="Postman"/>
 
 </div>
 
