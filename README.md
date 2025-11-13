@@ -95,111 +95,101 @@ Right now, I'm busy bending Python to my will — one project at a time 🐍💻
 <div align="center">
 
 <!-- PROGRAMMING LANGUAGES -->
-<a href="https://git.io/typing-svg#gh-dark-mode-only">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&lines=PROGRAMMING+LANGUAGES" />
-</a>
+<h4 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-PROGRAMMING%20LANGUAGES-FFD700?style=for-the-badge&labelColor=000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-PROGRAMMING%20LANGUAGES-000000?style=for-the-badge&labelColor=ffffff">
+    <img src="https://img.shields.io/badge/-PROGRAMMING%20LANGUAGES-000000?style=for-the-badge&labelColor=ffffff">
+  </picture>
+</h4>
 
-<a href="https://git.io/typing-svg#gh-light-mode-only">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=PROGRAMMING+LANGUAGES" />
-</a>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" title="C#"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" title="Java"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
 
 <br/><br/>
 
-<!-- MACHINE LEARNING & AI -->
-<a href="https://git.io/typing-svg#gh-dark-mode-only">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&lines=MACHINE+LEARNING+%26+AI" />
-</a>
+<!-- MACHINE LEARNING -->
+<h4 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-MACHINE%20LEARNING%20%26%20AI-FFD700?style=for-the-badge&labelColor=000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-MACHINE%20LEARNING%20%26%20AI-000000?style=for-the-badge&labelColor=ffffff">
+    <img src="https://img.shields.io/badge/-MACHINE%20LEARNING%20%26%20AI-000000?style=for-the-badge&labelColor=ffffff">
+  </picture>
+</h4>
 
-<a href="https://git.io/typing-svg#gh-light-mode-only">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=MACHINE+LEARNING+%26+AI" />
-</a>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" title="Scikit-Learn"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" title="OpenCV"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" title="Jupyter Notebook"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="45"/>
 
 <br/><br/>
 
 <!-- AR & GAME DEV -->
-<a href="https://git.io/typing-svg#gh-dark-mode-only">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&lines=AR+%26+GAME+DEVELOPMENT" />
-</a>
+<h4 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-AR%20%26%20GAME%20DEVELOPMENT-FFD700?style=for-the-badge&labelColor=000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-AR%20%26%20GAME%20DEVELOPMENT-000000?style=for-the-badge&labelColor=ffffff">
+    <img src="https://img.shields.io/badge/-AR%20%26%20GAME%20DEVELOPMENT-000000?style=for-the-badge&labelColor=ffffff">
+  </picture>
+</h4>
 
-<a href="https://git.io/typing-svg#gh-light-mode-only">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=AR+%26+GAME+DEVELOPMENT" />
-</a>
-
-<br/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" title="Unity 3D"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" title="ARCore"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" title="Blender 3D"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="45"/>
 
 <br/><br/>
 
 <!-- CLOUD -->
-<a href="https://git.io/typing-svg#gh-dark-mode-only">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&lines=CLOUD+COMPUTING" />
-</a>
+<h4 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-CLOUD%20COMPUTING-FFD700?style=for-the-badge&labelColor=000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-CLOUD%20COMPUTING-000000?style=for-the-badge&labelColor=ffffff">
+    <img src="https://img.shields.io/badge/-CLOUD%20COMPUTING-000000?style=for-the-badge&labelColor=ffffff">
+  </picture>
+</h4>
 
-<a href="https://git.io/typing-svg#gh-light-mode-only">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=CLOUD+COMPUTING" />
-</a>
-
-<br/>
-
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" title="AWS"/>
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" title="Google Cloud"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" title="Firebase (for apps)"/>
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45"/>
 
 <br/><br/>
 
 <!-- DATABASES -->
-<a href="https://git.io/typing-svg#gh-dark-mode-only">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&lines=DATABASES" />
-</a>
+<h4 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-DATABASES-FFD700?style=for-the-badge&labelColor=000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-DATABASES-000000?style=for-the-badge&labelColor=ffffff">
+    <img src="https://img.shields.io/badge/-DATABASES-000000?style=for-the-badge&labelColor=ffffff">
+  </picture>
+</h4>
 
-<a href="https://git.io/typing-svg#gh-light-mode-only">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=DATABASES" />
-</a>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
 
 <br/><br/>
 
-<!-- DEVELOPMENT TOOLS -->
-<a href="https://git.io/typing-svg#gh-dark-mode-only">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&lines=DEV+TOOLS" />
-</a>
+<!-- DEV TOOLS -->
+<h4 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-DEVELOPER%20TOOLS-FFD700?style=for-the-badge&labelColor=000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-DEVELOPER%20TOOLS-000000?style=for-the-badge&labelColor=ffffff">
+    <img src="https://img.shields.io/badge/-DEVELOPER%20TOOLS-000000?style=for-the-badge&labelColor=ffffff">
+  </picture>
+</h4>
 
-<a href="https://git.io/typing-svg#gh-light-mode-only">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=DEV+TOOLS" />
-</a>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" title="GitHub"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40" title="Android Studio"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" title="Postman"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45"/>
 
 </div>
+
+
 
 <!-- Separator line -->
 <hr style="border: 1px solid #ddd; margin: 40px 0;" />
