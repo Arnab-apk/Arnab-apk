@@ -31,7 +31,7 @@
 Hey there! I'm a curious tech enthusiast currently in my **3rd semester of B.Tech in Computer Science & Engineering** 🚀.  
 Right now, I'm busy bending Python to my will — one project at a time 🐍💻  
 
----
+
 
 ## 🌱 What I’m Learning
 - 🔹 Building **Generative AI** applications with **Large Language Models (LLMs)** 🧠
@@ -40,7 +40,7 @@ Right now, I'm busy bending Python to my will — one project at a time 🐍💻
 - 🔹 Exploring **Agentic Workflows** and autonomous AI systems 🤖
 - 🔹 *You might see a lot of technologies listed below, but I am still exploring and learning what works best—definitely not a pro at all of them yet!* 😅
 
----
+
 
 <h2 align="center">🎯 My Current Goals</h2>
 
@@ -48,7 +48,7 @@ Right now, I'm busy bending Python to my will — one project at a time 🐍💻
 - 🤖 **Create AI + Automation Projects** — solving everyday problems in creative ways  
 - ☁️ **Develop Cloud-Powered Apps** — scalable, real-world solutions that make an impact  
 
----
+
 
 <h2 align="center">🛠️ What I’m Working On</h2>
 
@@ -56,7 +56,7 @@ Right now, I'm busy bending Python to my will — one project at a time 🐍💻
 👉 [**100-Days-Python-Course**](https://youtu.be/7qqGnuRrWxg) ▶️  
 
 🤖 Building **Generative AI Applications** & **LLM Chains** using **LangChain** & **OpenAI** 🧠
----
+
 
 <p align="center">
   <i>“Learning, building, and innovating — one project at a time.”</i>
@@ -68,7 +68,7 @@ Right now, I'm busy bending Python to my will — one project at a time 🐍💻
 😅 My favorite keyboard shortcut? → `Ctrl + Z` (undoing my life choices, one bug at a time)  
 ⚡ Motto: *"Code. Break. Fix. Repeat. Until it looks like magic."*  
 
----
+
 
 <!-- Your existing sections like Connect with Me, Languages & Tools, Stats, Activity Graph, Footer stay as they are -->
 
@@ -88,7 +88,7 @@ Right now, I'm busy bending Python to my will — one project at a time 🐍💻
   <a href="https://leetcode.com/u/6IDfCDzl1s/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" alt="LeetCode" height="30" width="30" /></a>
 </p>
 
----
+
 
 <h3 align="center">🛠️ Languages & Tools</h3>
 
@@ -156,73 +156,27 @@ Right now, I'm busy bending Python to my will — one project at a time 🐍💻
 </div>
 
 
-
-
-<!-- Separator line -->
-<hr style="border: 1px solid #ddd; margin: 40px 0;" />
-
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 
-
 <p align="center">
-  <picture>
-    <!-- Dark -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Arnab-apk&layout=compact&langs_count=8&card_width=340&theme=transparent&hide_border=false&border_radius=12&title_color=FFD700&text_color=FFD700&icon_color=FFD700">
-    <!-- Light -->
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Arnab-apk&layout=compact&langs_count=8&card_width=340&theme=transparent&hide_border=false&border_radius=12&title_color=000000&text_color=000000&icon_color=000000">
-    <!-- Fallback -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arnab-apk&layout=compact&langs_count=8&card_width=340&theme=transparent&hide_border=false&border_radius=12&title_color=000000&text_color=000000&icon_color=000000" />
-  </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-mg69.vercel.app/api?username=Arnab-apk&bg_color=0d1117&title_color=FFD700&text_color=FFD700&icon_color=FFD700&border_color=FFD700&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=false&border_radius=10" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-mg69.vercel.app/api?username=Arnab-apk&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_color=000000&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=false&border_radius=10" />
+  <img src="https://github-readme-stats-mg69.vercel.app/api?username=Arnab-apk&bg_color=0d1117&title_color=FFD700&text_color=FFD700&icon_color=FFD700&border_color=FFD700&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=false&border_radius=10" />
+</picture><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-mg69.vercel.app/?user=Arnab-apk&background=0d1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&currStreakNum=FFD700&sideNums=FFD700&sideLabels=FFD700&dates=FFD700&border=FFD700&hide_border=false&border_radius=10" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-mg69.vercel.app/?user=Arnab-apk&background=ffffff&ring=000000&fire=000000&currStreakLabel=000000&currStreakNum=000000&sideNums=000000&sideLabels=000000&dates=000000&border=000000&hide_border=false&border_radius=10" />
+  <img src="https://github-readme-streak-stats-mg69.vercel.app/?user=Arnab-apk&background=0d1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&currStreakNum=FFD700&sideNums=FFD700&sideLabels=FFD700&dates=FFD700&border=FFD700&hide_border=false&border_radius=10" />
+</picture><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph-mg69.vercel.app/graph?username=Arnab-apk&bg_color=0d1117&color=FFD700&line=FFD700&point=FFFFFF&area=true&hide_border=false&custom_title=Arnab%27s%20Contributions" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph-mg69.vercel.app/graph?username=Arnab-apk&bg_color=ffffff&color=0e75b6&line=0e75b6&point=0e75b6&area=true&hide_border=false&custom_title=Arnab%27s%20Contributions" />
+  <img src="https://github-readme-activity-graph-mg69.vercel.app/graph?username=Arnab-apk&bg_color=0d1117&color=FFD700&line=FFD700&point=FFFFFF&area=true&hide_border=false&custom_title=Arnab%27s%20Contributions" />
+</picture><br>
+
 </p>
 
-<p align="center">
-  <picture>
-    <!-- Dark -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Arnab-apk&show_icons=true&rank_icon=github&theme=transparent&hide_border=false&border_radius=12&title_color=FFD700&text_color=FFD700&icon_color=FFD700">
-    <!-- Light -->
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Arnab-apk&show_icons=true&rank_icon=github&theme=transparent&hide_border=false&border_radius=12&title_color=000000&text_color=000000&icon_color=000000">
-    <!-- Fallback -->
-    <img src="https://github-readme-stats.vercel.app/api?username=Arnab-apk&show_icons=true&rank_icon=github&theme=transparent&hide_border=false&border_radius=12&title_color=000000&text_color=000000&icon_color=000000" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <!-- Dark -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=Arnab-apk&theme=transparent&hide_border=false&border_radius=12&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideNums=FFD700&sideLabels=FFD700">
-    <!-- Light -->
-    <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=Arnab-apk&theme=transparent&hide_border=false&border_radius=12&ring=000000&fire=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000">
-    <!-- Fallback -->
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Arnab-apk&theme=transparent&hide_border=false&border_radius=12&ring=000000&fire=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000" />
-  </picture>
-</p>
-
-
----
-
-<!-- Activity Graph (Bigger + Gold Glow) -->
-<p align="center">
-  <picture>
-    <!-- Dark Mode -->
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arnab-apk&custom_title=Arnab%20Mandal%27s%20Activity%20Graph&bg_color=00000000&color=FFD700&line=F7C72A&point=FFF08A&area=true&area_color=FFE97A&hide_border=false&height=320">
-    <!-- Light Mode -->
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arnab-apk&custom_title=Arnab%20Mandal%27s%20Activity%20Graph&theme=github-compact&bg_color=00000000&color=0e75b6&line=5aa7d6&point=a6d4f2&area=true&area_color=cfeaf9&hide_border=false&height=320">
-    <!-- Fallback -->
-    <img
-      alt="Activity Graph"
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Arnab-apk&theme=github-compact&bg_color=00000000&color=0e75b6&line=5aa7d6&point=a6d4f2&area=true&area_color=cfeaf9&hide_border=false&height=320" />
-  </picture>
-</p>
-
-
----
-
-<!-- Footer Wave -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=70&section=footer"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule
