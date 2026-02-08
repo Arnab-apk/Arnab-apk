@@ -34,10 +34,11 @@ Right now, I'm busy bending Python to my will — one project at a time 🐍💻
 ---
 
 ## 🌱 What I’m Learning
-- 🔹 Diving deep into **Object Oriented Programming** in Python  
-- 🔹 Exploring **GUI-based Python applications** 🖥️  
-- 🔹 Learning the foundations of **Cloud Computing** ☁️ _(AWS, GCP, and DevOps basics)_
-- 🔹 You might see a lot of technologies down there but i am still exploring what is best among them i am not at all pro at all of these lol! 
+- 🔹 Building **Generative AI** applications with **Large Language Models (LLMs)** 🧠
+- 🔹 Mastering **RAG (Retrieval-Augmented Generation)** pipelines for custom data 📚
+- 🔹 Orchestrating AI logic using **LangChain** and **Vector Databases** 🔗
+- 🔹 Exploring **Agentic Workflows** and autonomous AI systems 🤖
+- 🔹 *You might see a lot of technologies listed below, but I am still exploring and learning what works best—definitely not a pro at all of them yet!* 😅
 
 ---
 
@@ -52,10 +53,9 @@ Right now, I'm busy bending Python to my will — one project at a time 🐍💻
 <h2 align="center">🛠️ What I’m Working On</h2>
 
 📚 Embarking on a **Full Stack Python Development** journey *(from 0 → Hero)* →  
-👉 [**100-Days-Python-Course**](https://github.com/Arnab-apk/100-days-Python-Course) 🚀  
+👉 [**100-Days-Python-Course**](https://youtu.be/7qqGnuRrWxg) ▶️  
 
-📱 Currently exploring **Augmented Reality Mobile App Development** using **Unity Engine 5**
-
+🤖 Building **Generative AI Applications** & **LLM Chains** using **LangChain** & **OpenAI** 🧠
 ---
 
 <p align="center">
@@ -94,98 +94,64 @@ Right now, I'm busy bending Python to my will — one project at a time 🐍💻
 
 <div align="center">
 
-<!-- PROGRAMMING LANGUAGES -->
 <h4 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-PROGRAMMING%20LANGUAGES-FFD700?style=for-the-badge&labelColor=000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-PROGRAMMING%20LANGUAGES-000000?style=for-the-badge&labelColor=ffffff">
-    <img src="https://img.shields.io/badge/-PROGRAMMING%20LANGUAGES-000000?style=for-the-badge&labelColor=ffffff">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-PYTHON%20%26%20CORE-FFD700?style=for-the-badge&labelColor=000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-PYTHON%20%26%20CORE-000000?style=for-the-badge&labelColor=ffffff">
+    <img src="https://img.shields.io/badge/-PYTHON%20%26%20CORE-000000?style=for-the-badge&labelColor=ffffff">
   </picture>
 </h4>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" alt="Python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" alt="C++"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" alt="Linux"/>
 
 <br/>
 
-<!-- MACHINE LEARNING -->
 <h4 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-MACHINE%20LEARNING%20%26%20AI-FFD700?style=for-the-badge&labelColor=000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-MACHINE%20LEARNING%20%26%20AI-000000?style=for-the-badge&labelColor=ffffff">
-    <img src="https://img.shields.io/badge/-MACHINE%20LEARNING%20%26%20AI-000000?style=for-the-badge&labelColor=ffffff">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-GEN%20AI%20%26%20AGENTS-FFD700?style=for-the-badge&labelColor=000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-GEN%20AI%20%26%20AGENTS-000000?style=for-the-badge&labelColor=ffffff">
+    <img src="https://img.shields.io/badge/-GEN%20AI%20%26%20AGENTS-000000?style=for-the-badge&labelColor=ffffff">
   </picture>
 </h4>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="42"/>
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="42" alt="LangChain"/>
+<img src="https://cdn.simpleicons.org/openai/412991" width="42" alt="OpenAI"/>
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="42" alt="HuggingFace"/>
+<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="42" alt="Streamlit"/>
 
 <br/>
 
-<!-- AR & GAME DEV -->
 <h4 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-AR%20%26%20GAME%20DEVELOPMENT-FFD700?style=for-the-badge&labelColor=000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-AR%20%26%20GAME%20DEVELOPMENT-000000?style=for-the-badge&labelColor=ffffff">
-    <img src="https://img.shields.io/badge/-AR%20%26%20GAME%20DEVELOPMENT-000000?style=for-the-badge&labelColor=ffffff">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-ML%20%26%20VISION-FFD700?style=for-the-badge&labelColor=000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-ML%20%26%20VISION-000000?style=for-the-badge&labelColor=ffffff">
+    <img src="https://img.shields.io/badge/-ML%20%26%20VISION-000000?style=for-the-badge&labelColor=ffffff">
   </picture>
 </h4>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="42" alt="PyTorch"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="42" alt="TensorFlow"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="42" alt="OpenCV"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42" alt="Pandas"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="42" alt="Numpy"/>
 
 <br/>
 
-<!-- CLOUD -->
 <h4 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-CLOUD%20COMPUTING-FFD700?style=for-the-badge&labelColor=000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-CLOUD%20COMPUTING-000000?style=for-the-badge&labelColor=ffffff">
-    <img src="https://img.shields.io/badge/-CLOUD%20COMPUTING-000000?style=for-the-badge&labelColor=ffffff">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-TOOLS%20%26%20OPS-FFD700?style=for-the-badge&labelColor=000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-TOOLS%20%26%20OPS-000000?style=for-the-badge&labelColor=ffffff">
+    <img src="https://img.shields.io/badge/-TOOLS%20%26%20OPS-000000?style=for-the-badge&labelColor=ffffff">
   </picture>
 </h4>
 
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="42"/>
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="42"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="42"/>
-
-<br/>
-
-<!-- DATABASES -->
-<h4 align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-DATABASES-FFD700?style=for-the-badge&labelColor=000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-DATABASES-000000?style=for-the-badge&labelColor=ffffff">
-    <img src="https://img.shields.io/badge/-DATABASES-000000?style=for-the-badge&labelColor=ffffff">
-  </picture>
-</h4>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42"/>
-
-<br/>
-
-<!-- DEV TOOLS -->
-<h4 align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-DEVELOPER%20TOOLS-FFD700?style=for-the-badge&labelColor=000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-DEVELOPER%20TOOLS-000000?style=for-the-badge&labelColor=ffffff">
-    <img src="https://img.shields.io/badge/-DEVELOPER%20TOOLS-000000?style=for-the-badge&labelColor=ffffff">
-  </picture>
-</h4>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" alt="Git"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" alt="Docker"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="42" alt="Jupyter"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="42" alt="VS Code"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="42" alt="Postman"/>
 
 </div>
 
