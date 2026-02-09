@@ -179,4 +179,11 @@ Right now, I'm busy bending Python to my will — one project at a time 🐍💻
 </picture><br>
 
 </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arnab-apk/Arnab-apk/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arnab-apk/Arnab-apk/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Arnab-apk/Arnab-apk/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
