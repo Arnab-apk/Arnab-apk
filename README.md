@@ -68,12 +68,6 @@ Right now, I'm busy bending Python to my will — one project at a time 🐍💻
 😅 My favorite keyboard shortcut? → `Ctrl + Z` (undoing my life choices, one bug at a time)  
 ⚡ Motto: *"Code. Break. Fix. Repeat. Until it looks like magic."*  
 
-
-
-<!-- Your existing sections like Connect with Me, Languages & Tools, Stats, Activity Graph, Footer stay as they are -->
-
-
-
 </div>
 
 <h3 align="center">🌐 Connect with Me</h3>
@@ -90,7 +84,7 @@ Right now, I'm busy bending Python to my will — one project at a time 🐍💻
 
 
 
-<h3 align="center">🛠️ Languages & Tools</h3>
+<h2 align="center">🛠️ Languages & Tools</h2>
 
 <div align="center">
 
@@ -176,14 +170,15 @@ Right now, I'm busy bending Python to my will — one project at a time 🐍💻
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph-mg69.vercel.app/graph?username=Arnab-apk&bg_color=0d1117&color=FFD700&line=FFD700&point=FFFFFF&area=true&hide_border=false&custom_title=Arnab%27s%20Contributions" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph-mg69.vercel.app/graph?username=Arnab-apk&bg_color=ffffff&color=0e75b6&line=0e75b6&point=0e75b6&area=true&hide_border=false&custom_title=Arnab%27s%20Contributions" />
   <img src="https://github-readme-activity-graph-mg69.vercel.app/graph?username=Arnab-apk&bg_color=0d1117&color=FFD700&line=FFD700&point=FFFFFF&area=true&hide_border=false&custom_title=Arnab%27s%20Contributions" />
-</picture><br>
 
-</p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arnab-apk/Arnab-apk/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arnab-apk/Arnab-apk/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Arnab-apk/Arnab-apk/output/pacman-contribution-graph.svg">
-</picture>
+<h2 align="center">👻 Eating Up My Contributions ᗧ•••ᗣ</h2>
 
-###
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arnab-apk/Arnab-apk/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arnab-apk/Arnab-apk/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man eating contributions" src="https://raw.githubusercontent.com/Arnab-apk/Arnab-apk/output/pacman-contribution-graph.svg" width="100%" />
+  </picture>
+</div>
 
+<br/>
