@@ -28,30 +28,24 @@
 
 ###
 
-
-## 👋 About Me  
+<h2 align="center">👋 About Me</h2>
 
 Hey there! I'm a curious tech enthusiast currently in my **3rd semester of B.Tech in Computer Science & Engineering** 🚀.  
 Right now, I'm busy bending Python to my will — one project at a time 🐍💻  
 
+<h2 align="center">🌱 What I’m Learning</h2>
 
-
-## 🌱 What I’m Learning
 - 🔹 Building **Generative AI** applications with **Large Language Models (LLMs)** 🧠
 - 🔹 Mastering **RAG (Retrieval-Augmented Generation)** pipelines for custom data 📚
 - 🔹 Orchestrating AI logic using **LangChain** and **Vector Databases** 🔗
 - 🔹 Exploring **Agentic Workflows** and autonomous AI systems 🤖
 - 🔹 *You might see a lot of technologies listed below, but I am still exploring and learning what works best—definitely not a pro at all of them yet!* 😅
 
-
-
 <h2 align="center">🎯 My Current Goals</h2>
 
 - ⚡ **Master C++ & Java** — building a rock-solid foundation in Data Structures & Algorithms  
 - 🤖 **Create AI + Automation Projects** — solving everyday problems in creative ways  
 - ☁️ **Develop Cloud-Powered Apps** — scalable, real-world solutions that make an impact  
-
-
 
 <h2 align="center">🛠️ What I’m Working On</h2>
 
@@ -60,18 +54,15 @@ Right now, I'm busy bending Python to my will — one project at a time 🐍💻
 
 🤖 Building **Generative AI Applications** & **LLM Chains** using **LangChain** & **OpenAI** 🧠
 
-
 <p align="center">
   <i>“Learning, building, and innovating — one project at a time.”</i>
 </p>
 
+<h2 align="center">🎉 Fun Zone</h2>
 
-## 🎉 Fun Zone
-🎮 Debugging feels like being a detective… in a crime where **you’re also the murderer** 🔍💥  
-😅 My favorite keyboard shortcut? → `Ctrl + Z` (undoing my life choices, one bug at a time)  
-⚡ Motto: *"Code. Break. Fix. Repeat. Until it looks like magic."*  
-
-</div>
+🎮 Debugging feels like being a detective… in a crime where **you’re also the murderer** 🔍💥 <br> 
+😅 My favorite keyboard shortcut? → `Ctrl + Z` (undoing my life choices, one bug at a time) <br> 
+⚡ Motto: *"Code. Break. Fix. Repeat. Until it looks like magic."*
 
 <h3 align="center">🌐 Connect with Me</h3>
 
