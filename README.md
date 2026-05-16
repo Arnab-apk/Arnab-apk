@@ -5,25 +5,25 @@
 <div align="center">
 
 ```
- █████╗ ██████╗ ███╗   ██╗ █████╗ ██████╗ 
-██╔══██╗██╔══██╗████╗  ██║██╔══██╗██╔══██╗
-███████║██████╔╝██╔██╗ ██║███████║██████╔╝
-██╔══██║██╔══██╗██║╚██╗██║██╔══██║██╔══██╗
-██║  ██║██║  ██║██║ ╚████║██║  ██║██████╔╝
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═════╝ 
+ █████╗  ██████╗  ███╗   ██╗  █████╗  ██████╗ 
+██╔══██╗ ██╔══██╗ ████╗  ██║ ██╔══██╗ ██╔══██╗
+███████║ ██████╔╝ ██╔██╗ ██║ ███████║ ██████╔╝
+██╔══██║ ██╔══██╗ ██║╚██╗██║ ██╔══██║ ██╔══██╗
+██║  ██║ ██║  ██║ ██║ ╚████║ ██║  ██║ ██████╔╝
+╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═══╝ ╚═╝  ╚═╝ ╚═════╝ 
 
-███╗   ███╗ █████╗ ███╗   ██╗██████╗  █████╗ ██╗     
-████╗ ████║██╔══██╗████╗  ██║██╔══██╗██╔══██╗██║     
-██╔████╔██║███████║██╔██╗ ██║██║  ██║███████║██║     
-██║╚██╔╝██║██╔══██║██║╚██╗██║██║  ██║██╔══██║██║     
-██║ ╚═╝ ██║██║  ██║██║ ╚████║██████╔╝██║  ██║███████╗
-╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚══════╝
+███╗   ███╗  █████╗  ███╗   ██╗ ██████╗   █████╗  ██╗     
+████╗ ████║ ██╔══██╗ ████╗  ██║ ██╔══██╗ ██╔══██╗ ██║     
+██╔████╔██║ ███████║ ██╔██╗ ██║ ██║  ██║ ███████║ ██║     
+██║╚██╔╝██║ ██╔══██║ ██║╚██╗██║ ██║  ██║ ██╔══██║ ██║     
+██║ ╚═╝ ██║ ██║  ██║ ██║ ╚████║ ██████╔╝ ██║  ██║ ███████╗
+╚═╝     ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═══╝ ╚═════╝  ╚═╝  ╚═╝ ╚══════╝
 ```
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arnab_Mandal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnab-mandal-00200131a/)
-[![Email](https://img.shields.io/badge/Email-arnabmandal.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnabmandal.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-arnabmandal.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnabmandal261@@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Arnab--apk-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arnab-apk)
 [![Instagram](https://img.shields.io/badge/Instagram-_mr.invictus__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_mr.invictus__)
 
