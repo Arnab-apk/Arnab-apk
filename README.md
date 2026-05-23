@@ -5,25 +5,25 @@
 <div align="center">
 
 ```
- █████╗  ██████╗  ███╗   ██╗  █████╗  ██████╗ 
-██╔══██╗ ██╔══██╗ ████╗  ██║ ██╔══██╗ ██╔══██╗
-███████║ ██████╔╝ ██╔██╗ ██║ ███████║ ██████╔╝
-██╔══██║ ██╔══██╗ ██║╚██╗██║ ██╔══██║ ██╔══██╗
-██║  ██║ ██║  ██║ ██║ ╚████║ ██║  ██║ ██████╔╝
-╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═══╝ ╚═╝  ╚═╝ ╚═════╝ 
+ █████╗ ██████╗ ███╗   ██╗ █████╗ ██████╗ 
+██╔══██╗██╔══██╗████╗  ██║██╔══██╗██╔══██╗
+███████║██████╔╝██╔██╗ ██║███████║██████╔╝
+██╔══██║██╔══██╗██║╚██╗██║██╔══██║██╔══██╗
+██║  ██║██║  ██║██║ ╚████║██║  ██║██████╔╝
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═════╝ 
 
-███╗   ███╗  █████╗  ███╗   ██╗ ██████╗   █████╗  ██╗     
-████╗ ████║ ██╔══██╗ ████╗  ██║ ██╔══██╗ ██╔══██╗ ██║     
-██╔████╔██║ ███████║ ██╔██╗ ██║ ██║  ██║ ███████║ ██║     
-██║╚██╔╝██║ ██╔══██║ ██║╚██╗██║ ██║  ██║ ██╔══██║ ██║     
-██║ ╚═╝ ██║ ██║  ██║ ██║ ╚████║ ██████╔╝ ██║  ██║ ███████╗
-╚═╝     ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═══╝ ╚═════╝  ╚═╝  ╚═╝ ╚══════╝
+███╗   ███╗ █████╗ ███╗   ██╗██████╗  █████╗ ██╗     
+████╗ ████║██╔══██╗████╗  ██║██╔══██╗██╔══██╗██║     
+██╔████╔██║███████║██╔██╗ ██║██║  ██║███████║██║     
+██║╚██╔╝██║██╔══██║██║╚██╗██║██║  ██║██╔══██║██║     
+██║ ╚═╝ ██║██║  ██║██║ ╚████║██████╔╝██║  ██║███████╗
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚══════╝
 ```
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arnab_Mandal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnab-mandal-00200131a/)
-[![Email](https://img.shields.io/badge/Email-arnabmandal.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnabmandal261@@gmail.com)
+[![Email](https://img.shields.io/badge/Email-arnabmandal.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnabmandal.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Arnab--apk-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arnab-apk)
 [![Instagram](https://img.shields.io/badge/Instagram-_mr.invictus__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_mr.invictus__)
 
@@ -64,146 +64,95 @@ class Arnab:
 ## 🚀 Featured Projects
 
 <details open>
-<summary><b>🔗 Langchain_Basics2Advance — LangChain Mastery Journey</b></summary>
+<summary><b>🎵 Roomi — Real-Time Shared Music Platform</b></summary>
 <br/>
 
-> **LangChain · LLM Orchestration · Chains · Agents · RAG**
+> **Next.js · React · Socket.io · Spotify API · YouTube Music**
 
-A comprehensive learning-by-building repository covering **LangChain from fundamentals to advanced patterns**. Includes hands-on notebooks on chains, agents, memory, output parsers, retrieval-augmented generation, and real-world LLM orchestration.
+A real-time shared music platform that democratizes the aux at parties and group hangouts. Create rooms, share 6-character codes, and let everyone collaboratively build a queue with **democratic voting** to decide what plays next. Guests join instantly — no account needed. Features animated vinyl themes, glassmorphic UI, and seamless Spotify/YouTube Music integration.
 
-**Tech:** Python · Jupyter Notebook · LangChain · OpenAI · Vector DBs
+**Tech:** Next.js 16 · React 19 · TypeScript · Express · Socket.io · Spotify OAuth · Tailwind CSS
 
-![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python)
-![LangChain](https://img.shields.io/badge/LangChain-000?style=flat-square)
-![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-000?style=flat-square&logo=jupyter)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react)
+![Socket.io](https://img.shields.io/badge/Socket.io-000?style=flat-square&logo=socket.io)
 
 </details>
 
 ---
 
 <details open>
-<summary><b>🤖 Langchain_Streamlit_Name_Generator — AI-Powered Name Generator</b></summary>
+<summary><b>🧠 Model-StudyPlace — Interactive 3D Educational Platform</b></summary>
 <br/>
 
-> **LangChain · Streamlit · LLM App · Interactive UI**
+> **Google Model Viewer · Vanilla JS · Tailwind CSS · Gemini AI**
 
-An interactive AI application built with **LangChain and Streamlit** that uses LLMs to generate creative names on demand. A clean demonstration of integrating LLM pipelines with user-facing web interfaces — from prompt to production UI.
+A modern, interactive **3D learning hub** built with zero build steps — pure Vanilla JS, Tailwind CSS, and Google Model Viewer. Explore 3D models in the browser with full mobile responsiveness, and chat with an integrated **AI tutor powered by Google Gemini**. Deployed on Vercel with serverless API proxying for secure key management.
 
-**Tech:** Python · LangChain · Streamlit · OpenAI API
+**Tech:** HTML · JavaScript · Tailwind CSS · Google Model Viewer · Gemini API · Vercel Serverless
 
-![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python)
-![Streamlit](https://img.shields.io/badge/Streamlit-000?style=flat-square&logo=streamlit)
-![LangChain](https://img.shields.io/badge/LangChain-000?style=flat-square)
+![HTML](https://img.shields.io/badge/HTML-000?style=flat-square&logo=html5)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-000?style=flat-square&logo=tailwindcss)
+![Gemini](https://img.shields.io/badge/Gemini_AI-000?style=flat-square&logo=google)
 
 </details>
 
 ---
 
 <details open>
-<summary><b>🧠 Machine_Learning_Python-R — ML from Scratch</b></summary>
+<summary><b>🐉 Chimera-CLI — AI-Powered Docker Config Generator</b></summary>
 <br/>
 
-> **Supervised Learning · Unsupervised Learning · Feature Engineering · Model Evaluation**
+> **Go · Cobra · Bubble Tea · Multi-LLM · Docker**
 
-A hands-on machine learning repository implementing core ML algorithms and techniques in **Python and R**. Covers regression, classification, clustering, feature engineering, and model evaluation with real-world datasets.
+A developer CLI tool that **autonomously analyzes GitHub repos and generates production-ready Docker configurations**. Point it at any repo — it clones, detects frameworks (Express, Next.js, React, FastAPI, Flask, Django), validates findings via LLM, and spits out optimized multi-stage Dockerfiles + docker-compose configs. Supports OpenAI, Anthropic, Groq, Gemini, and Ollama as LLM providers.
 
-**Tech:** Python · R · Jupyter Notebook · Scikit-Learn · Pandas · NumPy
+**Tech:** Go · Cobra CLI · Bubble Tea TUI · Lipgloss · Docker · Multi-LLM
 
-![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-000?style=flat-square&logo=jupyter)
-![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python)
-![ML](https://img.shields.io/badge/Machine_Learning-000?style=flat-square)
+![Go](https://img.shields.io/badge/Go-000?style=flat-square&logo=go)
+![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker)
+![CLI](https://img.shields.io/badge/CLI_Tool-000?style=flat-square)
+![AI](https://img.shields.io/badge/Multi--LLM-000?style=flat-square)
 
 </details>
 
 ---
 
 <details open>
-<summary><b>🐍 100-days-Python-Course — Python Noob to Pro</b></summary>
+<summary><b>👨‍💻 Code_CollabV2 — Real-Time Collaborative Code Editor</b></summary>
 <br/>
 
-> **100 Days · Python Mastery · Projects · OOP · Automation**
+> **React · Monaco Editor · Yjs CRDTs · FastAPI · WebSockets**
 
-*"A wonderful journey of a nerdy tech guy — from a Python noob to an intermediate pro developer."* A structured 100-day Python learning path packed with projects, exercises, and real-world applications covering everything from basics to OOP, file handling, and automation.
+A browser-based collaborative coding platform where multiple developers **write, edit, and review code together in real time**. Powered by **Yjs CRDTs** for conflict-free concurrent editing with millisecond sync — no central authority needed. Features live remote cursors, Monaco Editor (VS Code engine), room management with approval workflows, real-time chat, and GitHub OAuth for repo imports.
 
-**Tech:** Python · OOP · Automation · Scripting
+**Tech:** React 19 · TypeScript · Monaco Editor · Yjs · FastAPI · WebSockets · Tailwind CSS
 
-![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python)
-![100 Days](https://img.shields.io/badge/100_Days-000?style=flat-square)
-![OOP](https://img.shields.io/badge/OOP-000?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react)
+![Python](https://img.shields.io/badge/FastAPI-000?style=flat-square&logo=fastapi)
+![WebSocket](https://img.shields.io/badge/WebSockets-000?style=flat-square)
 
 </details>
 
 ---
 
 <details open>
-<summary><b>🎮 Console_games-PYTHON- — Python Console Games Collection</b></summary>
+<summary><b>🔐 hackstorm (CredVault) — Decentralized Identity MVP</b></summary>
 <br/>
 
-> **Game Logic · OOP · Console UI · Interactive Python**
+> **Next.js · Solidity · MongoDB · Merkle Proofs · Ed25519**
 
-A collection of fun, interactive **console-based games** built in Python. Showcases clean game logic, OOP design patterns, and creative use of the terminal as a game interface.
+A decentralized identity system for issuing, storing, sharing, and verifying credentials on-chain. Uses **Merkle proofs** for credential integrity and anchors batch roots via Solidity smart contracts on Polygon Amoy. Features role-based dashboards (issuer/recipient/verifier), wallet-based auth, selective disclosure through shareable links, and five predefined credential schemas.
 
-**Tech:** Python · OOP · Game Logic
+**Tech:** Next.js · React · TypeScript · MongoDB · Solidity · Hardhat · Ed25519 · Keccak Hashing
 
-![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python)
-![Games](https://img.shields.io/badge/Console_Games-000?style=flat-square)
-![OOP](https://img.shields.io/badge/OOP_Patterns-000?style=flat-square)
-
-</details>
-
----
-
-<details open>
-<summary><b>📊 Data_Visualization — Visual Data Storytelling</b></summary>
-<br/>
-
-> **Matplotlib · Seaborn · Plotly · Pandas · EDA**
-
-A data visualization repository exploring various charting libraries and techniques for **exploratory data analysis and visual storytelling**. Hands-on notebooks turning raw datasets into compelling visual narratives.
-
-**Tech:** Python · Jupyter Notebook · Matplotlib · Seaborn · Pandas
-
-![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-000?style=flat-square&logo=jupyter)
-![Visualization](https://img.shields.io/badge/Data_Viz-000?style=flat-square)
-![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python)
-
-</details>
-
----
-
-<details open>
-<summary><b>📱 AppDev-Flutter — Cross-Platform Mobile Development</b></summary>
-<br/>
-
-> **Flutter · Dart · Mobile UI · Cross-Platform**
-
-Mobile application development projects built with **Flutter and Dart**. Exploring cross-platform UI patterns, state management, and building production-quality mobile experiences from a single codebase.
-
-**Tech:** Dart · Flutter · Mobile UI · Cross-Platform
-
-![Dart](https://img.shields.io/badge/Dart-000?style=flat-square&logo=dart)
-![Flutter](https://img.shields.io/badge/Flutter-000?style=flat-square&logo=flutter)
-![Mobile](https://img.shields.io/badge/Mobile_Dev-000?style=flat-square)
-
-</details>
-
----
-
-<details open>
-<summary><b>⚡ DSA_Aurafarming — Data Structures & Algorithms in C</b></summary>
-<br/>
-
-> **DSA · C Programming · Problem Solving · Competitive Coding**
-
-A grind-it-out DSA repository implementing core data structures and algorithms in **C**. Arrays, linked lists, trees, graphs, sorting, searching — the fundamentals that power everything else.
-
-**Tech:** C · DSA · Algorithms · Problem Solving
-
-![C](https://img.shields.io/badge/C-000?style=flat-square&logo=c)
-![DSA](https://img.shields.io/badge/DSA-000?style=flat-square)
-![Algorithms](https://img.shields.io/badge/Algorithms-000?style=flat-square)
-
-</details>
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![Solidity](https://img.shields.io/badge/Solidity-000?style=flat-square&logo=solidity)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb)
 
 ---
 
@@ -265,7 +214,9 @@ A grind-it-out DSA repository implementing core data structures and algorithms i
 
 <div align="center">
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=Arnab-apk&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnab-apk&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&langs_count=8" height="180"/>
 
 <br/><br/>
 
@@ -295,11 +246,11 @@ A grind-it-out DSA repository implementing core data structures and algorithms i
 
 ```
                           ╔══════════════════════════════════════╗
-                          ║         T H E   R O A D M A P        ║
+                          ║         T H E   R O A D M A P       ║
                           ╚══════════════════════════════════════╝
 
      ┌──────────────┐     ┌──────────────┐     ┌──────────────┐     ┌──────────────┐
-     │   🧠 LEARN    │────▶│   🔨 BUILD   │────▶│   💥 BREAK   │────▶│   🔧 FIX  │
+     │   🧠 LEARN    │────▶│   🔨 BUILD   │────▶│   💥 BREAK   │────▶│   🔧 FIX     │
      └──────────────┘     └──────────────┘     └──────────────┘     └──────┬───────┘
                                                                           │
               ┌───────────────────────────────────────────────────────────┘
