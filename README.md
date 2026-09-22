@@ -229,13 +229,9 @@ A decentralized identity system for issuing, storing, sharing, and verifying cre
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arnab-apk&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnab-apk&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&langs_count=8" height="180"/>
 
-<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Arnab-apk&theme=tokyonight&border_radius=12&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="600"/>
+
 
 <br/><br/>
 
