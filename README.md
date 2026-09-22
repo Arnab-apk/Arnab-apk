@@ -4,32 +4,20 @@
 
 <div align="center">
 
-```
- █████╗ ██████╗ ███╗   ██╗ █████╗ ██████╗ 
-██╔══██╗██╔══██╗████╗  ██║██╔══██╗██╔══██╗
-███████║██████╔╝██╔██╗ ██║███████║██████╔╝
-██╔══██║██╔══██╗██║╚██╗██║██╔══██║██╔══██╗
-██║  ██║██║  ██║██║ ╚████║██║  ██║██████╔╝
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═════╝ 
+<img src="./assets/banner.jpg" alt="Hi, I'm Arnab — CSE Undergrad • AI Enthusiast • Music Lover" width="100%" />
 
-███╗   ███╗ █████╗ ███╗   ██╗██████╗  █████╗ ██╗     
-████╗ ████║██╔══██╗████╗  ██║██╔══██╗██╔══██╗██║     
-██╔████╔██║███████║██╔██╗ ██║██║  ██║███████║██║     
-██║╚██╔╝██║██╔══██║██║╚██╗██║██║  ██║██╔══██║██║     
-██║ ╚═╝ ██║██║  ██║██║ ╚████║██████╔╝██║  ██║███████╗
-╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚══════╝
-```
-
-<br/>
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arnab_Mandal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnab-mandal-00200131a/)
 [![Email](https://img.shields.io/badge/Email-arnabmandal.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnabmandal.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Arnab--apk-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arnab-apk)
 [![Instagram](https://img.shields.io/badge/Instagram-_mr.invictus__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_mr.invictus__)
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Arnab-apk&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS)
+### 💡 *"From concept to commit — elevating innovation."* 🚀
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Arnab-apk&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Arnab-apk)
 
 </div>
 
@@ -49,10 +37,12 @@ Currently pursuing **B.Tech in Computer Science & Engineering** at Academy of Te
 class Arnab:
     name       = "Arnab Mandal"
     alias      = "Mr.Invictus"
-    role       = ["AI Engineer", "Full Stack Dev", "GenAI Builder", "Open Source Learner"]
+    role       = ["AI Engineer", "Full Stack Dev", "GenAI Builder", "Unity AR Dev"]
     languages  = ["Python", "JavaScript", "TypeScript", "C++", "C", "Dart", "SQL"]
     passion    = "Turning LLMs into real-world products that ship"
     superpower = "Learn → Build → Break → Fix → Ship → Repeat"
+    philosophy = "Good Ideas, Better Code"
+    fueled_by  = "Ideas & Coffee ☕"
     currently  = "Building Agentic AI workflows & RAG systems"
     fun_fact   = "I've forked more AI repos than most people have bookmarked"
 ```
@@ -154,6 +144,8 @@ A decentralized identity system for issuing, storing, sharing, and verifying cre
 ![Solidity](https://img.shields.io/badge/Solidity-000?style=flat-square&logo=solidity)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb)
 
+</details>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -190,9 +182,10 @@ A decentralized identity system for issuing, storing, sharing, and verifying cre
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 📱 Mobile & Languages
+### 📱 Mobile, AR & Languages
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
