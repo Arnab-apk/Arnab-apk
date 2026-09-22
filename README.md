@@ -175,43 +175,43 @@ A decentralized identity system for issuing, storing, sharing, and verifying cre
 ### 🧠 AI & Machine Learning
 <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi" alt="AI & Machine Learning" />
 <br/>
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com/)
-[![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain-ai.github.io/langgraph/)
-[![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llamaindex&logoColor=white)](https://llamaindex.ai/)
-[![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com/)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llamaindex&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 <br/><br/>
 
 ### 🌐 Full Stack & Web
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,html,css" alt="Full Stack & Web" />
 <br/>
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white)](https://gradio.app/)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white)
 
 <br/><br/>
 
 ### 📱 Mobile, AR & Languages
 <img src="https://skillicons.dev/icons?i=android,kotlin,flutter,dart,unity,cpp,c" alt="Mobile, AR & Languages" />
 <br/>
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br/><br/>
 
 ### 📡 Databases & Vector Storage
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" alt="Databases" />
 <br/>
-[![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)](https://pinecone.io/)
-[![Weaviate](https://img.shields.io/badge/Weaviate-00D084?style=for-the-badge&logo=weaviate&logoColor=white)](https://weaviate.io/)
-[![FAISS](https://img.shields.io/badge/FAISS-0064E0?style=for-the-badge&logo=meta&logoColor=white)](https://github.com/facebookresearch/faiss)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-00D084?style=for-the-badge&logo=weaviate&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0064E0?style=for-the-badge&logo=meta&logoColor=white)
 
 <br/><br/>
 
 ### 🔧 Tools & DevOps
 <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,postman,bash" alt="Tools & DevOps" />
 <br/>
-[![WSL](https://img.shields.io/badge/WSL-0078D6?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://learn.microsoft.com/en-us/windows/wsl/)
+![WSL](https://img.shields.io/badge/WSL-0078D6?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 </div>
 
