@@ -37,10 +37,10 @@ Currently pursuing **B.Tech in Computer Science & Engineering** at Academy of Te
 class Arnab:
     name       = "Arnab Mandal"
     alias      = "Mr.Invictus"
-    role       = ["AI Engineer", "Full Stack Dev", "GenAI Builder", "Unity AR Dev"]
-    languages  = ["Python", "JavaScript", "TypeScript", "C++", "C", "Dart", "SQL"]
-    passion    = "Turning LLMs into real-world products that ship"
-    superpower = "Learn → Build → Break → Fix → Ship → Repeat"
+    role       = ["AI Engineer", "Android & Full Stack Dev", "Unity AR Dev"]
+    languages  = ["Python", "JavaScript", "TypeScript", "Kotlin", "Dart", "C++", "C", "SQL"]
+    passion    = "Turning concepts into commits & elevating innovation"
+    superpower = "Build → Learn → Explore → Repeat"
     philosophy = "Good Ideas, Better Code"
     fueled_by  = "Ideas & Coffee ☕"
     currently  = "Building Agentic AI workflows & RAG systems"
@@ -52,6 +52,26 @@ class Arnab:
 ---
 
 ## 🚀 Featured Projects
+
+<details open>
+<summary><b>🌺 Uma (Pujo Parikrama) — Real-Time Durga Puja Navigation & Live Group Hopping</b></summary>
+<br/>
+
+> **Flutter · Dart · Magic Lane Maps · OpenStreetMap · Firebase · Real-Time Group Sync**
+
+A flagship high-performance Android mobile application built for navigating Kolkata's monumental Durga Puja festival. Curates 330+ verified pandals with offline vector tile caching, turn-by-turn routing, voice navigation, and live crowd telemetry. Features real-time companion tracking with separation perimeter alerts, walkie-talkie audio, dynamic festival day-aware theme morphing, and resilient offline Google & Guest session management.
+
+**Tech:** Flutter 3 · Dart · Magic Lane GemKit SDK · OpenStreetMap · Firebase Auth & Firestore · WebSockets · SQLite / Vector Tile Caching · Geolocator · Provider
+
+![Flutter](https://img.shields.io/badge/Flutter-000?style=flat-square&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-000?style=flat-square&logo=dart)
+![Firebase](https://img.shields.io/badge/Firebase-000?style=flat-square&logo=firebase)
+![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-000?style=flat-square&logo=openstreetmap)
+![Android](https://img.shields.io/badge/Android-000?style=flat-square&logo=android)
+
+</details>
+
+---
 
 <details open>
 <summary><b>🎵 Roomi — Real-Time Shared Music Platform</b></summary>
@@ -183,6 +203,8 @@ A decentralized identity system for issuing, storing, sharing, and verifying cre
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 📱 Mobile, AR & Languages
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
