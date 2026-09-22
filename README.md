@@ -172,88 +172,46 @@ A decentralized identity system for issuing, storing, sharing, and verifying cre
 
 <div align="center">
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi,react,nextjs,nodejs,express,ts,js,android,kotlin,flutter,dart,unity,cpp,c,postgres,mongodb,mysql,git,docker,linux,vscode,postman,bash&perline=13" alt="Tech Stack App Icons" />
-</a>
+### 🧠 AI & Machine Learning
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi" alt="AI & Machine Learning" />
+<br/>
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com/)
+[![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain-ai.github.io/langgraph/)
+[![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llamaindex&logoColor=white)](https://llamaindex.ai/)
+[![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com/)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
 
 <br/><br/>
 
-### 🧠 AI / ML / GenAI
-<p>
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi" alt="AI & ML App Icons" />
-</p>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llamaindex&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-
+### 🌐 Full Stack & Web
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,html,css" alt="Full Stack & Web" />
 <br/>
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white)](https://gradio.app/)
 
-### 🌐 Full Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,ts,js,html,css,tailwind" alt="Full Stack App Icons" />
-</p>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white)
-
-<br/>
+<br/><br/>
 
 ### 📱 Mobile, AR & Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=android,kotlin,flutter,dart,unity,cpp,c,bash" alt="Mobile, AR and Languages App Icons" />
-</p>
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
+<img src="https://skillicons.dev/icons?i=android,kotlin,flutter,dart,unity,cpp,c" alt="Mobile, AR & Languages" />
 <br/>
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-### 📡 Vector DBs & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" alt="Databases App Icons" />
-</p>
+<br/><br/>
 
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![Weaviate](https://img.shields.io/badge/Weaviate-00D084?style=for-the-badge&logo=weaviate&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0064E0?style=for-the-badge&logo=meta&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
+### 📡 Databases & Vector Storage
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" alt="Databases" />
 <br/>
+[![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)](https://pinecone.io/)
+[![Weaviate](https://img.shields.io/badge/Weaviate-00D084?style=for-the-badge&logo=weaviate&logoColor=white)](https://weaviate.io/)
+[![FAISS](https://img.shields.io/badge/FAISS-0064E0?style=for-the-badge&logo=meta&logoColor=white)](https://github.com/facebookresearch/faiss)
 
-### 🔧 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,postman" alt="Tools App Icons" />
-</p>
+<br/><br/>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![WSL](https://img.shields.io/badge/WSL-0078D6?style=for-the-badge&logo=windows-terminal&logoColor=white)
+### 🔧 Tools & DevOps
+<img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,postman,bash" alt="Tools & DevOps" />
+<br/>
+[![WSL](https://img.shields.io/badge/WSL-0078D6?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://learn.microsoft.com/en-us/windows/wsl/)
 
 </div>
 
