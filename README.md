@@ -223,24 +223,6 @@ A decentralized identity system for issuing, storing, sharing, and verifying cre
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-
-
-
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arnab-apk&theme=tokyo-night&hide_border=true&radius=12" alt="GitHub Activity Graph" width="95%"/>
-
-</div>
-
----
-
 ## 👻 Eating Up My Contributions
 
 <div align="center">
