@@ -16,6 +16,15 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Arnab-apk&color=00A8E8&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Arnab-apk)
 
+<br/><br/>
+
+<table>
+<tr>
+<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Arnab Mandal - ASCII Portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Arnab Mandal - System Info" /></td>
+</tr>
+</table>
+
 </div>
 
 ---
