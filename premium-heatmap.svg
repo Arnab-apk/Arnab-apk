@@ -1,0 +1,507 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1037" height="399" viewBox="0 0 1037 399" role="img" aria-label="GitHub Contribution Graph for Arnab-apk">
+
+  <style>
+    @keyframes waveReveal {
+      0% { opacity: 0; transform: translate(-8px, -8px) scale(0.7); filter: blur(2px); }
+      50% { opacity: 0.8; transform: translate(0, 0) scale(1.05); filter: blur(0); }
+      100% { opacity: 1; transform: translate(0, 0) scale(1); filter: blur(0); }
+    }
+    @keyframes fadeInUp {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes countUp {
+      from { opacity: 0; transform: scale(0.5); }
+      to { opacity: 1; transform: scale(1); }
+    }
+    @keyframes pulseGlow {
+      0%, 100% { opacity: 0.3; }
+      50% { opacity: 1; }
+    }
+    .contrib-box {
+      opacity: 0;
+      animation: waveReveal 0.7s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+    }
+    .stat-value {
+      opacity: 0;
+      animation: countUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+    }
+    .legend-item {
+      opacity: 0;
+      animation: fadeInUp 0.4s ease-out forwards;
+    }
+    .month-label {
+      opacity: 0;
+      animation: fadeInUp 0.4s ease-out forwards;
+    }
+    .day-label {
+      opacity: 0;
+      animation: fadeInUp 0.4s ease-out forwards;
+    }
+    .title-text {
+      opacity: 0;
+      animation: fadeInUp 0.5s ease-out 0.1s forwards;
+    }
+    .wave-line {
+      stroke-dasharray: 1000;
+      stroke-dashoffset: 1000;
+      animation: drawWave 2s ease-out forwards;
+    }
+    @keyframes drawWave {
+      to { stroke-dashoffset: 0; }
+    }
+    .mono {
+      font-family: 'ui-monospace', 'SFMono-Regular', 'Menlo', 'Consolas', monospace;
+    }
+  </style>
+
+<defs>
+<linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#0a0f1a"/>
+<stop offset="100%" stop-color="#05080e"/>
+</linearGradient>
+<linearGradient id="titleGrad" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#00d4ff"/>
+<stop offset="50%" stop-color="#00ff88"/>
+<stop offset="100%" stop-color="#ffd700"/>
+</linearGradient>
+<filter id="boxGlow" x="-50%" y="-50%" width="200%" height="200%">
+<feGaussianBlur stdDeviation="2" result="blur"/>
+<feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<filter id="textGlow" x="-50%" y="-50%" width="200%" height="200%">
+<feGaussianBlur stdDeviation="1.5" result="blur"/>
+<feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<pattern id="subtleGrid" width="40" height="40" patternUnits="userSpaceOnUse">
+<rect width="40" height="40" fill="#05080e"/>
+<path d="M40,0 L0,0 0,40" fill="none" stroke="#1a2a3a" stroke-width="0.2" opacity="0.2"/>
+</pattern>
+</defs>
+<rect width="1037" height="399" rx="20" fill="url(#bgGrad)"/>
+<rect x="0.5" y="0.5" width="1036" height="398" rx="19.5" fill="none" stroke="#1a2a3a" stroke-width="1" opacity="0.4"/>
+<rect width="1037" height="399" rx="20" fill="url(#subtleGrid)"/>
+<rect width="1037" height="4" rx="20 20 0 0">
+<animate attributeName="fill" values="#00d4ff;#00ff88;#ffd700;#ff6b6b;#00d4ff" dur="8s" repeatCount="indefinite"/>
+</rect>
+<rect x="0" y="0" width="1037" height="44" rx="20 20 0 0" fill="#05080e"/>
+<line x1="0" y1="44" x2="1037" y2="44" stroke="#1a2a3a" stroke-width="0.5"/>
+<circle cx="18" cy="22.0" r="7" fill="#ff5f56"/>
+<circle cx="38" cy="22.0" r="7" fill="#ffbd2e"/>
+<circle cx="58" cy="22.0" r="7" fill="#27c93f"/>
+<text class="title-text mono" x="50" y="32" font-size="14" font-weight="600" fill="#a0b0c0"><tspan class="accent-green">Arnab</tspan><tspan fill="#5a6a7a">@</tspan><tspan class="accent-cyan">github</tspan><tspan fill="#5a6a7a"> ~ $ contributions --graph --premium</tspan></text>
+<circle cx="957" cy="22.0" r="5" fill="#00ff88">
+<animate attributeName="opacity" values="1;0.3;1" dur="1.5s" repeatCount="indefinite"/>
+</circle>
+<text class="title-text mono" x="972" y="34" font-size="11" font-weight="600" fill="#00ff88">LIVE</text>
+<text class="month-label mono" x="90.5" y="86" text-anchor="middle" font-size="10" fill="#5a6a7a" style="animation-delay: 0.02s">Oct</text>
+<text class="month-label mono" x="158.5" y="86" text-anchor="middle" font-size="10" fill="#5a6a7a" style="animation-delay: 0.06s">Nov</text>
+<text class="month-label mono" x="226.5" y="86" text-anchor="middle" font-size="10" fill="#5a6a7a" style="animation-delay: 0.10s">Dec</text>
+<text class="month-label mono" x="311.5" y="86" text-anchor="middle" font-size="10" fill="#5a6a7a" style="animation-delay: 0.15s">Jan</text>
+<text class="month-label mono" x="379.5" y="86" text-anchor="middle" font-size="10" fill="#5a6a7a" style="animation-delay: 0.19s">Feb</text>
+<text class="month-label mono" x="447.5" y="86" text-anchor="middle" font-size="10" fill="#5a6a7a" style="animation-delay: 0.23s">Mar</text>
+<text class="month-label mono" x="532.5" y="86" text-anchor="middle" font-size="10" fill="#5a6a7a" style="animation-delay: 0.28s">Apr</text>
+<text class="month-label mono" x="600.5" y="86" text-anchor="middle" font-size="10" fill="#5a6a7a" style="animation-delay: 0.32s">May</text>
+<text class="month-label mono" x="668.5" y="86" text-anchor="middle" font-size="10" fill="#5a6a7a" style="animation-delay: 0.36s">Jun</text>
+<text class="month-label mono" x="753.5" y="86" text-anchor="middle" font-size="10" fill="#5a6a7a" style="animation-delay: 0.41s">Jul</text>
+<text class="month-label mono" x="821.5" y="86" text-anchor="middle" font-size="10" fill="#5a6a7a" style="animation-delay: 0.45s">Aug</text>
+<text class="month-label mono" x="906.5" y="86" text-anchor="middle" font-size="10" fill="#5a6a7a" style="animation-delay: 0.50s">Sep</text>
+<text class="day-label mono" x="40" y="120.1" text-anchor="end" font-size="9" fill="#3a4a5a" style="animation-delay: 0.02s">Mon</text>
+<text class="day-label mono" x="40" y="154.1" text-anchor="end" font-size="9" fill="#3a4a5a" style="animation-delay: 0.06s">Wed</text>
+<text class="day-label mono" x="40" y="188.1" text-anchor="end" font-size="9" fill="#3a4a5a" style="animation-delay: 0.10s">Fri</text>
+<rect class="contrib-box" x="50" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.000s"><title>2025-09-22: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="50" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.008s"><title>2025-09-23: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="50" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.016s"><title>2025-09-24: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="50" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.024s"><title>2025-09-25: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="50" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.032s"><title>2025-09-26: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="50" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.040s"><title>2025-09-27: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="50" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.048s"><title>2025-09-28: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="67" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.008s"><title>2025-09-29: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="67" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.016s"><title>2025-09-30: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="67" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.024s"><title>2025-10-01: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="67" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.032s"><title>2025-10-02: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="67" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.040s"><title>2025-10-03: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="67" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.048s"><title>2025-10-04: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="67" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.056s"><title>2025-10-05: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="84" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.016s"><title>2025-10-06: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="84" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.024s"><title>2025-10-07: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="84" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.032s"><title>2025-10-08: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="84" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.040s"><title>2025-10-09: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="84" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.048s"><title>2025-10-10: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="84" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.056s"><title>2025-10-11: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="84" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.064s"><title>2025-10-12: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="101" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.024s"><title>2025-10-13: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="101" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.032s"><title>2025-10-14: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="101" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.040s"><title>2025-10-15: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="101" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.048s"><title>2025-10-16: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="101" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.056s"><title>2025-10-17: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="101" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.064s"><title>2025-10-18: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="101" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.072s"><title>2025-10-19: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="118" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.032s"><title>2025-10-20: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="118" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.040s"><title>2025-10-21: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="118" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.048s"><title>2025-10-22: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="118" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.056s"><title>2025-10-23: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="118" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.064s"><title>2025-10-24: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="118" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.072s"><title>2025-10-25: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="118" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.080s"><title>2025-10-26: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="135" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.040s"><title>2025-10-27: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="135" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.048s"><title>2025-10-28: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="135" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.056s"><title>2025-10-29: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="135" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.064s"><title>2025-10-30: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="135" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.072s"><title>2025-10-31: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="135" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.080s"><title>2025-11-01: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="135" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.088s"><title>2025-11-02: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="152" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.048s"><title>2025-11-03: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="152" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.056s"><title>2025-11-04: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="152" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.064s"><title>2025-11-05: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="152" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.072s"><title>2025-11-06: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="152" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.080s"><title>2025-11-07: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="152" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.088s"><title>2025-11-08: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="152" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.096s"><title>2025-11-09: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="169" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.056s"><title>2025-11-10: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="169" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.064s"><title>2025-11-11: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="169" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.072s"><title>2025-11-12: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="169" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.080s"><title>2025-11-13: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="169" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.088s"><title>2025-11-14: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="169" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.096s"><title>2025-11-15: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="169" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.104s"><title>2025-11-16: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="186" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.064s"><title>2025-11-17: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="186" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.072s"><title>2025-11-18: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="186" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.080s"><title>2025-11-19: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="186" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.088s"><title>2025-11-20: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="186" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.096s"><title>2025-11-21: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="186" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.104s"><title>2025-11-22: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="186" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.112s"><title>2025-11-23: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="203" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.072s"><title>2025-11-24: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="203" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.080s"><title>2025-11-25: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="203" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.088s"><title>2025-11-26: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="203" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.096s"><title>2025-11-27: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="203" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.104s"><title>2025-11-28: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="203" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.112s"><title>2025-11-29: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="203" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.120s"><title>2025-11-30: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="220" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.080s"><title>2025-12-01: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="220" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.088s"><title>2025-12-02: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="220" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.096s"><title>2025-12-03: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="220" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.104s"><title>2025-12-04: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="220" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.112s"><title>2025-12-05: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="220" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.120s"><title>2025-12-06: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="220" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.128s"><title>2025-12-07: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="237" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.088s"><title>2025-12-08: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="237" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.096s"><title>2025-12-09: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="237" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.104s"><title>2025-12-10: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="237" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.112s"><title>2025-12-11: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="237" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.120s"><title>2025-12-12: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="237" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.128s"><title>2025-12-13: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="237" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.136s"><title>2025-12-14: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="254" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.096s"><title>2025-12-15: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="254" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.104s"><title>2025-12-16: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="254" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.112s"><title>2025-12-17: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="254" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.120s"><title>2025-12-18: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="254" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.128s"><title>2025-12-19: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="254" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.136s"><title>2025-12-20: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="254" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.144s"><title>2025-12-21: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="271" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.104s"><title>2025-12-22: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="271" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.112s"><title>2025-12-23: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="271" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.120s"><title>2025-12-24: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="271" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.128s"><title>2025-12-25: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="271" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.136s"><title>2025-12-26: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="271" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.144s"><title>2025-12-27: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="271" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.152s"><title>2025-12-28: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="288" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.112s"><title>2025-12-29: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="288" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.120s"><title>2025-12-30: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="288" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.128s"><title>2025-12-31: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="288" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.136s"><title>2026-01-01: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="288" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.144s"><title>2026-01-02: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="288" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.152s"><title>2026-01-03: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="288" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.160s"><title>2026-01-04: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="305" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.120s"><title>2026-01-05: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="305" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.128s"><title>2026-01-06: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="305" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.136s"><title>2026-01-07: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="305" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.144s"><title>2026-01-08: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="305" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.152s"><title>2026-01-09: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="305" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.160s"><title>2026-01-10: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="305" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.168s"><title>2026-01-11: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="322" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.128s"><title>2026-01-12: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="322" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.136s"><title>2026-01-13: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="322" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.144s"><title>2026-01-14: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="322" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.152s"><title>2026-01-15: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="322" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.160s"><title>2026-01-16: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="322" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.168s"><title>2026-01-17: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="322" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.176s"><title>2026-01-18: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="339" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.136s"><title>2026-01-19: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="339" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.144s"><title>2026-01-20: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="339" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.152s"><title>2026-01-21: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="339" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.160s"><title>2026-01-22: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="339" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.168s"><title>2026-01-23: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="339" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.176s"><title>2026-01-24: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="339" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.184s"><title>2026-01-25: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="356" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.144s"><title>2026-01-26: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="356" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.152s"><title>2026-01-27: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="356" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.160s"><title>2026-01-28: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="356" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.168s"><title>2026-01-29: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="356" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.176s"><title>2026-01-30: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="356" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.184s"><title>2026-01-31: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="356" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.192s"><title>2026-02-01: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="373" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.152s"><title>2026-02-02: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="373" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.160s"><title>2026-02-03: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="373" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.168s"><title>2026-02-04: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="373" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.176s"><title>2026-02-05: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="373" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.184s"><title>2026-02-06: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="373" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.192s"><title>2026-02-07: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="373" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.200s"><title>2026-02-08: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="390" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.160s"><title>2026-02-09: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="390" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.168s"><title>2026-02-10: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="390" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.176s"><title>2026-02-11: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="390" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.184s"><title>2026-02-12: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="390" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.192s"><title>2026-02-13: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="390" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.200s"><title>2026-02-14: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="390" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.208s"><title>2026-02-15: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="407" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.168s"><title>2026-02-16: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="407" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.176s"><title>2026-02-17: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="407" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.184s"><title>2026-02-18: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="407" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.192s"><title>2026-02-19: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="407" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.200s"><title>2026-02-20: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="407" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.208s"><title>2026-02-21: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="407" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.216s"><title>2026-02-22: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="424" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.176s"><title>2026-02-23: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="424" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.184s"><title>2026-02-24: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="424" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.192s"><title>2026-02-25: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="424" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.200s"><title>2026-02-26: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="424" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.208s"><title>2026-02-27: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="424" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.216s"><title>2026-02-28: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="424" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.224s"><title>2026-03-01: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="441" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.184s"><title>2026-03-02: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="441" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.192s"><title>2026-03-03: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="441" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.200s"><title>2026-03-04: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="441" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.208s"><title>2026-03-05: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="441" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.216s"><title>2026-03-06: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="441" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.224s"><title>2026-03-07: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="441" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.232s"><title>2026-03-08: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="458" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.192s"><title>2026-03-09: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="458" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.200s"><title>2026-03-10: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="458" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.208s"><title>2026-03-11: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="458" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.216s"><title>2026-03-12: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="458" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.224s"><title>2026-03-13: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="458" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.232s"><title>2026-03-14: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="458" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.240s"><title>2026-03-15: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="475" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.200s"><title>2026-03-16: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="475" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.208s"><title>2026-03-17: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="475" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.216s"><title>2026-03-18: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="475" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.224s"><title>2026-03-19: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="475" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.232s"><title>2026-03-20: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="475" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.240s"><title>2026-03-21: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="475" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.248s"><title>2026-03-22: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="492" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.208s"><title>2026-03-23: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="492" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.216s"><title>2026-03-24: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="492" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.224s"><title>2026-03-25: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="492" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.232s"><title>2026-03-26: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="492" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.240s"><title>2026-03-27: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="492" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.248s"><title>2026-03-28: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="492" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.256s"><title>2026-03-29: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="509" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.216s"><title>2026-03-30: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="509" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.224s"><title>2026-03-31: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="509" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.232s"><title>2026-04-01: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="509" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.240s"><title>2026-04-02: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="509" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.248s"><title>2026-04-03: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="509" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.256s"><title>2026-04-04: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="509" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.264s"><title>2026-04-05: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="526" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.224s"><title>2026-04-06: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="526" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.232s"><title>2026-04-07: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="526" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.240s"><title>2026-04-08: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="526" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.248s"><title>2026-04-09: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="526" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.256s"><title>2026-04-10: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="526" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.264s"><title>2026-04-11: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="526" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.272s"><title>2026-04-12: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="543" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.232s"><title>2026-04-13: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="543" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.240s"><title>2026-04-14: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="543" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.248s"><title>2026-04-15: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="543" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.256s"><title>2026-04-16: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="543" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.264s"><title>2026-04-17: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="543" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.272s"><title>2026-04-18: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="543" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.280s"><title>2026-04-19: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="560" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.240s"><title>2026-04-20: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="560" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.248s"><title>2026-04-21: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="560" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.256s"><title>2026-04-22: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="560" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.264s"><title>2026-04-23: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="560" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.272s"><title>2026-04-24: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="560" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.280s"><title>2026-04-25: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="560" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.288s"><title>2026-04-26: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="577" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.248s"><title>2026-04-27: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="577" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.256s"><title>2026-04-28: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="577" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.264s"><title>2026-04-29: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="577" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.272s"><title>2026-04-30: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="577" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.280s"><title>2026-05-01: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="577" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.288s"><title>2026-05-02: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="577" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.296s"><title>2026-05-03: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="594" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.256s"><title>2026-05-04: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="594" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.264s"><title>2026-05-05: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="594" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.272s"><title>2026-05-06: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="594" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.280s"><title>2026-05-07: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="594" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.288s"><title>2026-05-08: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="594" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.296s"><title>2026-05-09: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="594" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.304s"><title>2026-05-10: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="611" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.264s"><title>2026-05-11: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="611" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.272s"><title>2026-05-12: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="611" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.280s"><title>2026-05-13: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="611" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.288s"><title>2026-05-14: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="611" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.296s"><title>2026-05-15: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="611" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.304s"><title>2026-05-16: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="611" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.312s"><title>2026-05-17: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="628" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.272s"><title>2026-05-18: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="628" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.280s"><title>2026-05-19: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="628" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.288s"><title>2026-05-20: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="628" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.296s"><title>2026-05-21: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="628" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.304s"><title>2026-05-22: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="628" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.312s"><title>2026-05-23: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="628" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.320s"><title>2026-05-24: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="645" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.280s"><title>2026-05-25: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="645" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.288s"><title>2026-05-26: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="645" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.296s"><title>2026-05-27: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="645" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.304s"><title>2026-05-28: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="645" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.312s"><title>2026-05-29: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="645" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.320s"><title>2026-05-30: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="645" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.328s"><title>2026-05-31: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="662" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.288s"><title>2026-06-01: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="662" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.296s"><title>2026-06-02: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="662" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.304s"><title>2026-06-03: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="662" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.312s"><title>2026-06-04: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="662" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.320s"><title>2026-06-05: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="662" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.328s"><title>2026-06-06: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="662" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.336s"><title>2026-06-07: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="679" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.296s"><title>2026-06-08: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="679" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.304s"><title>2026-06-09: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="679" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.312s"><title>2026-06-10: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="679" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.320s"><title>2026-06-11: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="679" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.328s"><title>2026-06-12: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="679" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.336s"><title>2026-06-13: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="679" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.344s"><title>2026-06-14: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="696" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.304s"><title>2026-06-15: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="696" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.312s"><title>2026-06-16: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="696" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.320s"><title>2026-06-17: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="696" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.328s"><title>2026-06-18: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="696" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.336s"><title>2026-06-19: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="696" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.344s"><title>2026-06-20: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="696" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.352s"><title>2026-06-21: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="713" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.312s"><title>2026-06-22: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="713" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.320s"><title>2026-06-23: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="713" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.328s"><title>2026-06-24: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="713" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.336s"><title>2026-06-25: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="713" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.344s"><title>2026-06-26: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="713" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.352s"><title>2026-06-27: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="713" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.360s"><title>2026-06-28: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="730" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.320s"><title>2026-06-29: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="730" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.328s"><title>2026-06-30: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="730" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.336s"><title>2026-07-01: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="730" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.344s"><title>2026-07-02: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="730" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.352s"><title>2026-07-03: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="730" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.360s"><title>2026-07-04: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="730" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.368s"><title>2026-07-05: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="747" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.328s"><title>2026-07-06: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="747" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.336s"><title>2026-07-07: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="747" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.344s"><title>2026-07-08: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="747" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.352s"><title>2026-07-09: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="747" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.360s"><title>2026-07-10: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="747" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.368s"><title>2026-07-11: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="747" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.376s"><title>2026-07-12: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="764" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.336s"><title>2026-07-13: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="764" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.344s"><title>2026-07-14: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="764" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.352s"><title>2026-07-15: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="764" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.360s"><title>2026-07-16: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="764" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.368s"><title>2026-07-17: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="764" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.376s"><title>2026-07-18: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="764" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.384s"><title>2026-07-19: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="781" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.344s"><title>2026-07-20: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="781" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.352s"><title>2026-07-21: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="781" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.360s"><title>2026-07-22: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="781" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.368s"><title>2026-07-23: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="781" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.376s"><title>2026-07-24: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="781" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.384s"><title>2026-07-25: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="781" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.392s"><title>2026-07-26: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="798" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.352s"><title>2026-07-27: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="798" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.360s"><title>2026-07-28: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="798" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.368s"><title>2026-07-29: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="798" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.376s"><title>2026-07-30: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="798" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.384s"><title>2026-07-31: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="798" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.392s"><title>2026-08-01: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="798" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.400s"><title>2026-08-02: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="815" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.360s"><title>2026-08-03: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="815" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.368s"><title>2026-08-04: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="815" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.376s"><title>2026-08-05: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="815" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.384s"><title>2026-08-06: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="815" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.392s"><title>2026-08-07: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="815" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.400s"><title>2026-08-08: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="815" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.408s"><title>2026-08-09: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="832" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.368s"><title>2026-08-10: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="832" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.376s"><title>2026-08-11: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="832" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.384s"><title>2026-08-12: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="832" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.392s"><title>2026-08-13: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="832" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.400s"><title>2026-08-14: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="832" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.408s"><title>2026-08-15: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="832" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.416s"><title>2026-08-16: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="849" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.376s"><title>2026-08-17: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="849" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.384s"><title>2026-08-18: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="849" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.392s"><title>2026-08-19: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="849" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.400s"><title>2026-08-20: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="849" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.408s"><title>2026-08-21: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="849" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.416s"><title>2026-08-22: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="849" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.424s"><title>2026-08-23: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="866" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.384s"><title>2026-08-24: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="866" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.392s"><title>2026-08-25: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="866" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.400s"><title>2026-08-26: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="866" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.408s"><title>2026-08-27: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="866" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.416s"><title>2026-08-28: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="866" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.424s"><title>2026-08-29: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="866" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.432s"><title>2026-08-30: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="883" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.392s"><title>2026-08-31: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="883" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.400s"><title>2026-09-01: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="883" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.408s"><title>2026-09-02: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="883" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.416s"><title>2026-09-03: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="883" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.424s"><title>2026-09-04: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="883" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.432s"><title>2026-09-05: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="883" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.440s"><title>2026-09-06: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="900" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.400s"><title>2026-09-07: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="900" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.408s"><title>2026-09-08: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="900" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.416s"><title>2026-09-09: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="900" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.424s"><title>2026-09-10: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="900" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.432s"><title>2026-09-11: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="900" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.440s"><title>2026-09-12: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="900" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.448s"><title>2026-09-13: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="917" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.408s"><title>2026-09-14: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="917" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.416s"><title>2026-09-15: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="917" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.424s"><title>2026-09-16: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="917" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.432s"><title>2026-09-17: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="917" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.440s"><title>2026-09-18: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="917" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.448s"><title>2026-09-19: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="917" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.456s"><title>2026-09-20: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="934" y="94" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.416s"><title>2026-09-21: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="934" y="111" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.424s"><title>2026-09-22: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="934" y="128" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.432s"><title>2026-09-23: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="934" y="145" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.440s"><title>2026-09-24: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="934" y="162" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.448s"><title>2026-09-25: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="934" y="179" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.456s"><title>2026-09-26: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<rect class="contrib-box" x="934" y="196" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.464s"><title>2026-09-27: 0 contributions • Level 0/6 • ●○○○○○○</title></rect>
+<text class="legend-item mono" x="50" y="240" font-size="11" fill="#5a6a7a" style="animation-delay: 0.48s">Less</text>
+<rect class="legend-item" x="95" y="229" width="13" height="13" rx="3" ry="3" fill="#0d1520" style="animation-delay: 0.48s"/>
+<rect class="legend-item" x="111" y="229" width="13" height="13" rx="3" ry="3" fill="#162a1e" style="animation-delay: 0.49s"/>
+<rect class="legend-item" x="127" y="229" width="13" height="13" rx="3" ry="3" fill="#0e4429" style="animation-delay: 0.50s"/>
+<rect class="legend-item" x="143" y="229" width="13" height="13" rx="3" ry="3" fill="#006d32" style="animation-delay: 0.50s"/>
+<rect class="legend-item" x="159" y="229" width="13" height="13" rx="3" ry="3" fill="#26a641" style="animation-delay: 0.51s"/>
+<rect class="legend-item" x="175" y="229" width="13" height="13" rx="3" ry="3" fill="#39d353" style="animation-delay: 0.52s"/>
+<rect class="legend-item" x="191" y="229" width="13" height="13" rx="3" ry="3" fill="#69f0a0" style="animation-delay: 0.53s"/>
+<text class="legend-item mono" x="215" y="240" font-size="11" fill="#5a6a7a" style="animation-delay: 0.54s">More</text>
+<line class="divider" x1="50" y1="269" x2="987" y2="269" stroke="#1a2a3a" stroke-width="1" stroke-dasharray="6,6" style="animation-delay: 0.54s"/>
+<text class="stat-value mono" x="50" y="291" font-size="22" font-weight="700" fill="#00ff88" style="animation-delay: 0.55s">2,847</text>
+<text class="stat-value mono" x="50" y="315" font-size="11" fill="#a0b0c0" style="animation-delay: 0.65s">total contributions</text>
+<text class="stat-value mono" x="50" y="331" font-size="9" fill="#5a6a7a" style="animation-delay: 0.65s">in the last year</text>
+<text class="stat-value mono" x="309" y="291" font-size="22" font-weight="700" fill="#00d4ff" style="animation-delay: 0.56s">12</text>
+<text class="stat-value mono" x="309" y="315" font-size="11" fill="#a0b0c0" style="animation-delay: 0.66s">day streak</text>
+<text class="stat-value mono" x="309" y="331" font-size="9" fill="#5a6a7a" style="animation-delay: 0.66s">current</text>
+<text class="stat-value mono" x="568" y="291" font-size="22" font-weight="700" fill="#ffd700" style="animation-delay: 0.57s">45</text>
+<text class="stat-value mono" x="568" y="315" font-size="11" fill="#a0b0c0" style="animation-delay: 0.67s">day streak</text>
+<text class="stat-value mono" x="568" y="331" font-size="9" fill="#5a6a7a" style="animation-delay: 0.67s">longest ever</text>
+<text class="stat-value mono" x="827" y="291" font-size="22" font-weight="700" fill="#ff6b6b" style="animation-delay: 0.58s">28</text>
+<text class="stat-value mono" x="827" y="315" font-size="11" fill="#a0b0c0" style="animation-delay: 0.68s">contributions</text>
+<text class="stat-value mono" x="827" y="331" font-size="9" fill="#5a6a7a" style="animation-delay: 0.68s">best day: 2025-03-15</text>
+<text x="987" y="383" text-anchor="end" class="mono" font-size="9" fill="#3a4a5a">Updated Sep 28, 2025 18:12 UTC</text>
+<rect x="0" y="395" width="1037" height="4" rx="0 0 20 20" fill="url(#titleGrad)"/>
+</svg>

@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="1098" viewBox="0 0 520 1098" role="img" aria-label="Arnab Mandal - System Info">
+
+  <style>
+    @keyframes slideIn {
+      from { opacity: 0; transform: translateX(-15px); }
+      to { opacity: 1; transform: translateX(0); }
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+    @keyframes barGrow {
+      from { width: 0; }
+      to { width: var(--bar-width); }
+    }
+    @keyframes countUp {
+      from { opacity: 0; transform: scale(0.8); }
+      to { opacity: 1; transform: scale(1); }
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.5; }
+    }
+    .card-row {
+      opacity: 0;
+      animation: slideIn 0.45s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+    }
+    .stat-value {
+      opacity: 0;
+      animation: countUp 0.5s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+    }
+    .skill-bar-bg {
+      fill: #080c14;
+    }
+    .skill-bar-fill {
+      transform-origin: left center;
+      transform: scaleX(0);
+      animation: barGrow 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+    }
+    .title-bar {
+      opacity: 0;
+      animation: fadeIn 0.3s ease-out 0.05s forwards;
+    }
+    .divider {
+      opacity: 0;
+      animation: fadeIn 0.3s ease-out forwards;
+    }
+    .project-icon {
+      animation: pulse 2s ease-in-out infinite;
+    }
+    .mono {
+      font-family: 'ui-monospace', 'SFMono-Regular', 'Menlo', 'Consolas', monospace;
+    }
+    .interactive:hover {
+      cursor: pointer;
+    }
+  </style>
+
+<defs>
+<linearGradient id="cardBg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#0d131f"/>
+<stop offset="100%" stop-color="#080c14"/>
+</linearGradient>
+<linearGradient id="cyanGrad" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#00d4ff"/>
+<stop offset="100%" stop-color="#0099cc"/>
+</linearGradient>
+<linearGradient id="greenGrad" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#00ff88"/>
+<stop offset="100%" stop-color="#00cc66"/>
+</linearGradient>
+<linearGradient id="goldGrad" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#ffd700"/>
+<stop offset="100%" stop-color="#ccaa00"/>
+</linearGradient>
+<filter id="cardGlow" x="-20%" y="-20%" width="140%" height="140%">
+<feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#00d4ff" flood-opacity="0.15"/>
+</filter>
+<filter id="textGlow" x="-50%" y="-50%" width="200%" height="200%">
+<feGaussianBlur stdDeviation="2" result="blur"/>
+<feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+</defs>
+<rect width="520" height="1098" rx="16" fill="url(#cardBg)" filter="url(#cardGlow)"/>
+<rect x="0.5" y="0.5" width="519" height="1097" rx="15.5" fill="none" stroke="#1e2a3a" stroke-width="1" opacity="0.6"/>
+<rect width="520" height="3" rx="16 16 0 0">
+<animate attributeName="opacity" values="1;0.6;1" dur="3s" repeatCount="indefinite"/>
+<animate attributeName="fill" values="#00d4ff;#00ff88;#ffd700;#00d4ff" dur="6s" repeatCount="indefinite"/>
+</rect>
+<rect x="0" y="0" width="520" height="40" rx="16 16 0 0" fill="#080c14"/>
+<line x1="0" y1="40" x2="520" y2="40" stroke="#1e2a3a" stroke-width="0.5"/>
+<circle cx="18" cy="20.0" r="6" fill="#ff5f56"/>
+<circle cx="36" cy="20.0" r="6" fill="#ffbd2e"/>
+<circle cx="54" cy="20.0" r="6" fill="#27c93f"/>
+<text class="title-bar mono" x="24" y="30" font-size="13" font-weight="600" fill="#f0f4f9"><tspan class="accent-green">arnab</tspan><tspan fill="#5a6a7a">@</tspan><tspan class="accent-cyan">github</tspan><tspan fill="#5a6a7a"> ~ $ neofetch --premium</tspan></text>
+<g class="card-row" style="animation-delay: 0.00s"><text x="24" y="56" font-size="12" font-weight="600" fill="#ff6b6b" class="mono">OS</text><text x="124" y="56" font-size="12" fill="#f0f4f9" class="mono">Arch Linux (btw) • Kernel 6.10+</text></g>
+<g class="card-row" style="animation-delay: 0.04s"><text x="24" y="78" font-size="12" font-weight="600" fill="#ffd700" class="mono">Uptime</text><text x="124" y="78" font-size="12" fill="#a0b0c0" class="mono">21 years, 8 months, 12 days</text></g>
+<g class="card-row" style="animation-delay: 0.08s"><text x="24" y="100" font-size="12" font-weight="600" fill="#00d4ff" class="mono">Shell</text><text x="124" y="100" font-size="12" fill="#a0b0c0" class="mono">zsh • starship prompt</text></g>
+<g class="card-row" style="animation-delay: 0.12s"><text x="24" y="122" font-size="12" font-weight="600" fill="#c084fc" class="mono">Editor</text><text x="124" y="122" font-size="12" fill="#a0b0c0" class="mono">Neovim • VS Code</text></g>
+<g class="card-row" style="animation-delay: 0.16s"><text x="24" y="144" font-size="12" font-weight="600" fill="#00ff88" class="mono">Terminal</text><text x="124" y="144" font-size="12" fill="#a0b0c0" class="mono">Ghostty • Kitty</text></g>
+<g class="card-row" style="animation-delay: 0.20s"><text x="24" y="166" font-size="12" font-weight="600" fill="#fb923c" class="mono">WM</text><text x="124" y="166" font-size="12" fill="#a0b0c0" class="mono">Hyprland • Wayland</text></g>
+<text class="card-row mono" x="24" y="195.0" font-size="11" font-weight="700" fill="#ffd700" letter-spacing="1.5" style="animation-delay: 0.24s">AI ENGINEER & FULL STACK DEVELOPER</text>
+<text class="card-row mono" x="24" y="221.0" font-size="11" fill="#a0b0c0" style="animation-delay: 0.28s"><tspan fill="#00d4ff"></tspan> Kolkata, WB, India</text>
+<text class="card-row mono" x="24" y="243.0" font-size="11" fill="#a0b0c0" style="animation-delay: 0.32s"><tspan fill="#00d4ff"></tspan> B.Tech CSE @ Academy of Technology</text>
+<text class="card-row mono" x="24" y="265.0" font-size="11" fill="#a0b0c0" style="animation-delay: 0.36s"><tspan fill="#00d4ff"></tspan> GenAI • Agentic Systems • RAG • LLM Ops</text>
+<line class="divider card-row" x1="24" y1="294.0" x2="496" y2="294.0" stroke="#1e2a3a" stroke-width="1" stroke-dasharray="4,4" style="animation-delay: 0.44s"/>
+<text class="card-row mono" x="24" y="308.0" font-size="11" font-weight="700" fill="#00d4ff" letter-spacing="1" style="animation-delay: 0.48s">CORE COMPETENCIES</text>
+<g class="card-row" style="animation-delay: 0.52s"><text x="24" y="334.0" font-size="11" font-weight="600" fill="#00ff88" class="mono">AI/ML</text><text x="124" y="334.0" font-size="10" fill="#5a6a7a" class="mono">95%</text><rect class="skill-bar-bg" x="134" y="324.0" width="180" height="6" rx="3" fill="#080c14"/><rect class="skill-bar-fill" x="134" y="324.0" width="171.0" height="6" rx="3" fill="#00ff88" style="--bar-width: 171.0px; animation-delay: 0.67s"/></g>
+<g class="card-row" style="animation-delay: 0.56s"><text x="24" y="356.0" font-size="11" font-weight="600" fill="#00d4ff" class="mono">LLM Ops</text><text x="124" y="356.0" font-size="10" fill="#5a6a7a" class="mono">90%</text><rect class="skill-bar-bg" x="134" y="346.0" width="180" height="6" rx="3" fill="#080c14"/><rect class="skill-bar-fill" x="134" y="346.0" width="162.0" height="6" rx="3" fill="#00d4ff" style="--bar-width: 162.0px; animation-delay: 0.71s"/></g>
+<g class="card-row" style="animation-delay: 0.60s"><text x="24" y="378.0" font-size="11" font-weight="600" fill="#fb923c" class="mono">Backend</text><text x="124" y="378.0" font-size="10" fill="#5a6a7a" class="mono">88%</text><rect class="skill-bar-bg" x="134" y="368.0" width="180" height="6" rx="3" fill="#080c14"/><rect class="skill-bar-fill" x="134" y="368.0" width="158.4" height="6" rx="3" fill="#fb923c" style="--bar-width: 158.4px; animation-delay: 0.75s"/></g>
+<g class="card-row" style="animation-delay: 0.64s"><text x="24" y="400.0" font-size="11" font-weight="600" fill="#00d4ff" class="mono">Frontend</text><text x="124" y="400.0" font-size="10" fill="#5a6a7a" class="mono">92%</text><rect class="skill-bar-bg" x="134" y="390.0" width="180" height="6" rx="3" fill="#080c14"/><rect class="skill-bar-fill" x="134" y="390.0" width="165.6" height="6" rx="3" fill="#00d4ff" style="--bar-width: 165.6px; animation-delay: 0.79s"/></g>
+<g class="card-row" style="animation-delay: 0.68s"><text x="24" y="422.0" font-size="11" font-weight="600" fill="#c084fc" class="mono">Mobile</text><text x="124" y="422.0" font-size="10" fill="#5a6a7a" class="mono">85%</text><rect class="skill-bar-bg" x="134" y="412.0" width="180" height="6" rx="3" fill="#080c14"/><rect class="skill-bar-fill" x="134" y="412.0" width="153.0" height="6" rx="3" fill="#c084fc" style="--bar-width: 153.0px; animation-delay: 0.83s"/></g>
+<g class="card-row" style="animation-delay: 0.72s"><text x="24" y="444.0" font-size="11" font-weight="600" fill="#ffd700" class="mono">DevOps</text><text x="124" y="444.0" font-size="10" fill="#5a6a7a" class="mono">82%</text><rect class="skill-bar-bg" x="134" y="434.0" width="180" height="6" rx="3" fill="#080c14"/><rect class="skill-bar-fill" x="134" y="434.0" width="147.6" height="6" rx="3" fill="#ffd700" style="--bar-width: 147.6px; animation-delay: 0.87s"/></g>
+<g class="card-row" style="animation-delay: 0.76s"><text x="24" y="466.0" font-size="11" font-weight="600" fill="#ff6b6b" class="mono">Data</text><text x="124" y="466.0" font-size="10" fill="#5a6a7a" class="mono">80%</text><rect class="skill-bar-bg" x="134" y="456.0" width="180" height="6" rx="3" fill="#080c14"/><rect class="skill-bar-fill" x="134" y="456.0" width="144.0" height="6" rx="3" fill="#ff6b6b" style="--bar-width: 144.0px; animation-delay: 0.91s"/></g>
+<g class="card-row" style="animation-delay: 0.80s"><text x="24" y="488.0" font-size="11" font-weight="600" fill="#a0b0c0" class="mono">Tools</text><text x="124" y="488.0" font-size="10" fill="#5a6a7a" class="mono">75%</text><rect class="skill-bar-bg" x="134" y="478.0" width="180" height="6" rx="3" fill="#080c14"/><rect class="skill-bar-fill" x="134" y="478.0" width="135.0" height="6" rx="3" fill="#a0b0c0" style="--bar-width: 135.0px; animation-delay: 0.95s"/></g>
+<line class="divider card-row" x1="24" y1="517.0" x2="496" y2="517.0" stroke="#1e2a3a" stroke-width="1" stroke-dasharray="4,4" style="animation-delay: 0.84s"/>
+<text class="card-row mono" x="24" y="531.0" font-size="11" font-weight="700" fill="#ffd700" letter-spacing="1" style="animation-delay: 0.88s">FEATURED PROJECTS</text>
+<g class="card-row" style="animation-delay: 0.92s"><text x="24" y="557.0" font-size="14" fill="#ff6b6b" class="project-icon">🌺</text><text x="48" y="557.0" font-size="12" font-weight="700" fill="#f0f4f9" class="mono">Uma</text><text x="78.5" y="557.0" font-size="11" fill="#ff6b6b" class="mono">Pujo Parikrama</text></g>
+<text class="card-row mono" x="48" y="579.0" font-size="10" fill="#a0b0c0" style="animation-delay: 0.96s">330+ pandals • Live GPS • Group sync • Flutter + Firebase</text>
+<g class="card-row" style="animation-delay: 1.00s"><text x="24" y="603.0" font-size="14" fill="#c084fc" class="project-icon">🎵</text><text x="48" y="603.0" font-size="12" font-weight="700" fill="#f0f4f9" class="mono">Roomi</text><text x="93.5" y="603.0" font-size="11" fill="#c084fc" class="mono">Shared Music</text></g>
+<text class="card-row mono" x="48" y="625.0" font-size="10" fill="#a0b0c0" style="animation-delay: 1.04s">Real-time queue • Democratic voting • Next.js + Socket.io</text>
+<g class="card-row" style="animation-delay: 1.08s"><text x="24" y="649.0" font-size="14" fill="#00ff88" class="project-icon">🐉</text><text x="48" y="649.0" font-size="12" font-weight="700" fill="#f0f4f9" class="mono">Chimera-CLI</text><text x="138.5" y="649.0" font-size="11" fill="#00ff88" class="mono">AI Docker Gen</text></g>
+<text class="card-row mono" x="48" y="671.0" font-size="10" fill="#a0b0c0" style="animation-delay: 1.12s">Multi-LLM • Auto-detect frameworks • Go + Bubble Tea</text>
+<g class="card-row" style="animation-delay: 1.16s"><text x="24" y="695.0" font-size="14" fill="#00d4ff" class="project-icon">👨‍💻</text><text x="48" y="695.0" font-size="12" font-weight="700" fill="#f0f4f9" class="mono">Code_CollabV2</text><text x="153.5" y="695.0" font-size="11" fill="#00d4ff" class="mono">CRDT Editor</text></g>
+<text class="card-row mono" x="48" y="717.0" font-size="10" fill="#a0b0c0" style="animation-delay: 1.20s">Yjs • Monaco • Real-time cursors • React + FastAPI</text>
+<g class="card-row" style="animation-delay: 1.24s"><text x="24" y="741.0" font-size="14" fill="#ffd700" class="project-icon">🧠</text><text x="48" y="741.0" font-size="12" font-weight="700" fill="#f0f4f9" class="mono">Model-StudyPlace</text><text x="176.0" y="741.0" font-size="11" fill="#ffd700" class="mono">3D Education</text></g>
+<text class="card-row mono" x="48" y="763.0" font-size="10" fill="#a0b0c0" style="animation-delay: 1.28s">Google Model Viewer • Gemini AI Tutor • Vanilla JS</text>
+<g class="card-row" style="animation-delay: 1.32s"><text x="24" y="787.0" font-size="14" fill="#fb923c" class="project-icon">🔐</text><text x="48" y="787.0" font-size="12" font-weight="700" fill="#f0f4f9" class="mono">CredVault</text><text x="123.5" y="787.0" font-size="11" fill="#fb923c" class="mono">Decentralized ID</text></g>
+<text class="card-row mono" x="48" y="809.0" font-size="10" fill="#a0b0c0" style="animation-delay: 1.36s">Merkle proofs • Solidity • Polygon • Next.js</text>
+<line class="divider card-row" x1="24" y1="840.0" x2="496" y2="840.0" stroke="#1e2a3a" stroke-width="1" stroke-dasharray="4,4" style="animation-delay: 1.40s"/>
+<text class="card-row mono" x="24" y="854.0" font-size="11" font-weight="700" fill="#00ff88" letter-spacing="1" style="animation-delay: 1.44s">GITHUB METRICS</text>
+<g class="card-row" style="animation-delay: 1.48s" transform="translate(24, 0.0)"><text x="0" y="0" font-size="20" font-weight="700" fill="#00ff88" class="mono stat-value">2,847+</text><text x="0" y="20" font-size="10" fill="#5a6a7a" class="mono">Contributions</text></g>
+<g class="card-row" style="animation-delay: 1.52s" transform="translate(184, 0.0)"><text x="0" y="0" font-size="20" font-weight="700" fill="#00d4ff" class="mono stat-value">47</text><text x="0" y="20" font-size="10" fill="#5a6a7a" class="mono">Repositories</text></g>
+<g class="card-row" style="animation-delay: 1.56s" transform="translate(344, 0.0)"><text x="0" y="0" font-size="20" font-weight="700" fill="#ffd700" class="mono stat-value">1.2k+</text><text x="0" y="20" font-size="10" fill="#5a6a7a" class="mono">Stars Earned</text></g>
+<g class="card-row" style="animation-delay: 1.60s" transform="translate(24, 36.0)"><text x="0" y="0" font-size="20" font-weight="700" fill="#c084fc" class="mono stat-value">380+</text><text x="0" y="20" font-size="10" fill="#5a6a7a" class="mono">Followers</text></g>
+<g class="card-row" style="animation-delay: 1.64s" transform="translate(184, 36.0)"><text x="0" y="0" font-size="20" font-weight="700" fill="#ff6b6b" class="mono stat-value">12 days</text><text x="0" y="20" font-size="10" fill="#5a6a7a" class="mono">Current Streak</text></g>
+<g class="card-row" style="animation-delay: 1.68s" transform="translate(344, 36.0)"><text x="0" y="0" font-size="20" font-weight="700" fill="#fb923c" class="mono stat-value">45 days</text><text x="0" y="20" font-size="10" fill="#5a6a7a" class="mono">Longest Streak</text></g>
+<line class="divider card-row" x1="24" y1="961.0" x2="496" y2="961.0" stroke="#1e2a3a" stroke-width="1" stroke-dasharray="4,4" style="animation-delay: 1.72s"/>
+<text class="card-row mono" x="24" y="975.0" font-size="11" font-weight="700" fill="#c084fc" letter-spacing="1" style="animation-delay: 1.76s">CONNECT</text>
+<a href="https://github.com/Arnab-apk" target="_blank" class="card-row interactive" style="animation-delay: 1.80s"><text x="24" y="1001.0" font-size="11" font-weight="600" fill="#00d4ff" class="mono">GitHub</text><text x="104" y="1001.0" font-size="11" fill="#a0b0c0" class="mono">github.com/Arnab-apk</text><text x="480" y="1001.0" font-size="10" fill="#5a6a7a" class="mono">↗</text></a>
+<a href="https://linkedin.com/in/arnab-mandal-00200131a" target="_blank" class="card-row interactive" style="animation-delay: 1.84s"><text x="24" y="1023.0" font-size="11" font-weight="600" fill="#00d4ff" class="mono">LinkedIn</text><text x="104" y="1023.0" font-size="11" fill="#a0b0c0" class="mono">linkedin.com/in/arnab-mandal</text><text x="480" y="1023.0" font-size="10" fill="#5a6a7a" class="mono">↗</text></a>
+<a href="mailto:arnabmandal.dev@gmail.com" target="_blank" class="card-row interactive" style="animation-delay: 1.88s"><text x="24" y="1045.0" font-size="11" font-weight="600" fill="#00d4ff" class="mono">Email</text><text x="104" y="1045.0" font-size="11" fill="#a0b0c0" class="mono">arnabmandal.dev@gmail.com</text><text x="480" y="1045.0" font-size="10" fill="#5a6a7a" class="mono">↗</text></a>
+<a href="https://leetcode.com/u/6IDfCDzl1s" target="_blank" class="card-row interactive" style="animation-delay: 1.92s"><text x="24" y="1067.0" font-size="11" font-weight="600" fill="#00d4ff" class="mono">LeetCode</text><text x="104" y="1067.0" font-size="11" fill="#a0b0c0" class="mono">leetcode.com/u/6IDfCDzl1s</text><text x="480" y="1067.0" font-size="10" fill="#5a6a7a" class="mono">↗</text></a>
+<rect x="0" y="1095" width="520" height="3" rx="0 0 16 16" fill="url(#cyanGrad)"/>
+</svg>

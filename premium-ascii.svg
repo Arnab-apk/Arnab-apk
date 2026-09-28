@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="464.0" height="515.5" viewBox="0 0 464.0 515.5" role="img" aria-label="Arnab Mandal - Premium ASCII Portrait">
+
+  <style>
+    @keyframes scanline {
+      0% { transform: translateY(-100%); opacity: 0; }
+      50% { opacity: 0.8; }
+      100% { transform: translateY(100%); opacity: 0; }
+    }
+    @keyframes typewriter {
+      from { width: 0; opacity: 0; }
+      to { width: 100%; opacity: 1; }
+    }
+    @keyframes fadeInUp {
+      from { opacity: 0; transform: translateY(8px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes pulseGlow {
+      0%, 100% { opacity: 0.3; }
+      50% { opacity: 0.8; }
+    }
+    @keyframes cursorBlink {
+      0%, 50% { opacity: 1; }
+      51%, 100% { opacity: 0; }
+    }
+    .portrait-line {
+      opacity: 0;
+      animation: fadeInUp 0.5s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+    }
+    .scanline {
+      animation: scanline 3s linear infinite;
+    }
+    .cursor {
+      animation: cursorBlink 1s step-end infinite;
+      fill: #00d4ff;
+    }
+    .accent-cyan { fill: #00d4ff; }
+    .accent-green { fill: #00ff88; }
+    .accent-gold { fill: #ffd700; }
+    .accent-coral { fill: #ff6b6b; }
+    .text-primary { fill: #e8edf3; }
+    .text-secondary { fill: #8899aa; }
+    .text-muted { fill: #556677; }
+    .mono {
+      font-family: 'ui-monospace', 'SFMono-Regular', 'Menlo', 'Consolas', 'Monospace';
+      font-size: 7.5px;
+      line-height: 9.5px;
+      white-space: pre;
+    }
+    .title-bar {
+      opacity: 0;
+      animation: fadeInUp 0.4s ease-out 0.1s forwards;
+    }
+  </style>
+
+<defs>
+<pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+<path d="M 20 0 L 0 0 0 20" fill="none" stroke="#1e2a3a" stroke-width="0.3" opacity="0.3"/>
+</pattern>
+<linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#080c14"/>
+<stop offset="100%" stop-color="#05080e"/>
+</linearGradient>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+<feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+<feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+</defs>
+<rect width="464.0" height="515.5" fill="url(#bgGrad)"/>
+<rect width="464.0" height="515.5" fill="url(#grid)"/>
+<rect width="464.0" height="515.5" fill="url(#vignette)"/>
+<rect x="0" y="0" width="464.0" height="36" fill="#0d131f"/>
+<line x1="0" y1="36" x2="464.0" y2="36" stroke="#1e2a3a" stroke-width="1"/>
+<circle cx="16" cy="18" r="6" fill="#ff5f56"/>
+<circle cx="34" cy="18" r="6" fill="#ffbd2e"/>
+<circle cx="52" cy="18" r="6" fill="#27c93f"/>
+<text class="title-bar mono" x="24" y="24" font-size="12" font-weight="600" fill="#8899aa">arnab@github ~ $ cat premium_portrait.txt</text>
+<text class="title-bar mono" x="440.0" y="24" text-anchor="end" font-size="11" fill="#556677">PREMIUM MODE • 80x45</text>
+<rect class="scanline" x="24" y="60" width="416.0" height="4" fill="#00d4ff" opacity="0" filter="url(#glow)"/>
+<text class="mono portrait-line accent-gold" x="24" y="70.75" style="animation-delay: 0.035s">        ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄        </text>
+<text class="mono portrait-line" x="24" y="80.25" style="animation-delay: 0.070s">       █                                            █       </text>
+<text class="mono portrait-line" x="24" y="89.75" style="animation-delay: 0.105s">       █   ███╗   ███╗ █████╗ ██████╗ ███████╗      █       </text>
+<text class="mono portrait-line accent-cyan" x="24" y="99.25" style="animation-delay: 0.140s">       █   ████╗ ████║██╔══██╗██╔══██╗██╔════╝      █       </text>
+<text class="mono portrait-line accent-cyan" x="24" y="108.75" style="animation-delay: 0.175s">       █   ██╔████╔██║███████║██████╔╝███████╗      █       </text>
+<text class="mono portrait-line accent-cyan" x="24" y="118.25" style="animation-delay: 0.210s">       █   ██║╚██╔╝██║██╔══██║██╔══██╗╚════██║      █       </text>
+<text class="mono portrait-line accent-cyan" x="24" y="127.75" style="animation-delay: 0.245s">       █   ██║ ╚═╝ ██║██║  ██║██║  ██║███████║      █       </text>
+<text class="mono portrait-line accent-cyan" x="24" y="137.25" style="animation-delay: 0.280s">       █   ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝      █       </text>
+<text class="mono portrait-line" x="24" y="146.75" style="animation-delay: 0.315s">       █                                            █       </text>
+<text class="mono portrait-line accent-coral" x="24" y="156.25" style="animation-delay: 0.350s">       █   A R N A B   M A N D A L   •   @ M r . I n v i c t u s   █       </text>
+<text class="mono portrait-line" x="24" y="165.75" style="animation-delay: 0.385s">       █                                            █       </text>
+<text class="mono portrait-line accent-gold" x="24" y="175.25" style="animation-delay: 0.420s">       ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀        </text>
+<text class="mono portrait-line accent-cyan" x="24" y="189.5" style="animation-delay: 0.490s">    ╔═══════════════════════════════════════════════════════════════════╗   </text>
+<text class="mono portrait-line accent-cyan" x="24" y="199.0" style="animation-delay: 0.525s">    ║  ████████████████████████████████████████████████████████████████  ║   </text>
+<text class="mono portrait-line accent-cyan" x="24" y="208.5" style="animation-delay: 0.560s">    ║  █  🧠  AI ENGINEER    █  💻  FULL STACK    █  📱  MOBILE DEV  █  ║   </text>
+<text class="mono portrait-line accent-cyan" x="24" y="218.0" style="animation-delay: 0.595s">    ║  █  🎮  UNITY AR       █  ☁️  CLOUD NATIVE   █  🔬  RESEARCH   █  ║   </text>
+<text class="mono portrait-line accent-cyan" x="24" y="227.5" style="animation-delay: 0.630s">    ║  ████████████████████████████████████████████████████████████████  ║   </text>
+<text class="mono portrait-line accent-cyan" x="24" y="237.0" style="animation-delay: 0.665s">    ╚═══════════════════════════════════════════════════════════════════╝   </text>
+<text class="mono portrait-line text-secondary" x="24" y="251.25" style="animation-delay: 0.735s">    ┌────────────────────────────────────────────────────────────────┐   </text>
+<text class="mono portrait-line accent-green" x="24" y="260.75" style="animation-delay: 0.770s">    │  STACK  ████████████████████████████████████████████████  98%  │   </text>
+<text class="mono portrait-line accent-green" x="24" y="270.25" style="animation-delay: 0.805s">    │  Python ████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  92%  │   </text>
+<text class="mono portrait-line accent-green" x="24" y="279.75" style="animation-delay: 0.840s">    │  TypeScript ██████████████████████░░░░░░░░░░░░░░░░░░░░░░  88%  │   </text>
+<text class="mono portrait-line accent-green" x="24" y="289.25" style="animation-delay: 0.875s">    │  Go █████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░  82%  │   </text>
+<text class="mono portrait-line accent-green" x="24" y="298.75" style="animation-delay: 0.910s">    │  Kotlin ███████████████████████░░░░░░░░░░░░░░░░░░░░░░░  80%  │   </text>
+<text class="mono portrait-line accent-green" x="24" y="308.25" style="animation-delay: 0.945s">    │  C++ ████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░  75%  │   </text>
+<text class="mono portrait-line accent-green" x="24" y="317.75" style="animation-delay: 0.980s">    │  Dart ███████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░  78%  │   </text>
+<text class="mono portrait-line text-secondary" x="24" y="327.25" style="animation-delay: 1.015s">    └────────────────────────────────────────────────────────────────┘   </text>
+<text class="mono portrait-line accent-cyan" x="24" y="341.5" style="animation-delay: 1.085s">    ╔═══════════════════════════════════════════════════════════════════╗   </text>
+<text class="mono portrait-line" x="24" y="351.0" style="animation-delay: 1.120s">    ║  ▶ B.Tech CSE  •  Academy of Technology, Kolkata  •  3rd Year    ║   </text>
+<text class="mono portrait-line" x="24" y="360.5" style="animation-delay: 1.155s">    ║  ▶ 21 years  •  Builder  •  Dreamer  •  Open Source Contributor  ║   </text>
+<text class="mono portrait-line accent-cyan" x="24" y="370.0" style="animation-delay: 1.190s">    ╚═══════════════════════════════════════════════════════════════════╝   </text>
+<text class="mono portrait-line text-secondary" x="24" y="384.25" style="animation-delay: 1.260s">    ┌────────────────────────────────────────────────────────────────┐   </text>
+<text class="mono portrait-line text-secondary" x="24" y="393.75" style="animation-delay: 1.295s">    │  🌐  github.com/Arnab-apk      💼  linkedin.com/in/arnab-mandal │   </text>
+<text class="mono portrait-line text-secondary" x="24" y="403.25" style="animation-delay: 1.330s">    │  📧  arnabmandal.dev@gmail.com  🐦  @_mr.invictus__             │   </text>
+<text class="mono portrait-line text-secondary" x="24" y="412.75" style="animation-delay: 1.365s">    └────────────────────────────────────────────────────────────────┘   </text>
+<text class="mono portrait-line accent-gold" x="24" y="427.0" style="animation-delay: 1.435s">    ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄</text>
+<text class="mono portrait-line" x="24" y="436.5" style="animation-delay: 1.470s">    █  "From concept to commit — elevating innovation."  █</text>
+<text class="mono portrait-line accent-gold" x="24" y="446.0" style="animation-delay: 1.505s">    ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀</text>
+<text class="mono cursor" x="24" y="446.0">█</text>
+<line x1="24" y1="487.5" x2="440.0" y2="487.5" stroke="#1e2a3a" stroke-width="0.5"/>
+<text class="mono" x="24" y="501.5" font-size="10" fill="#556677"><tspan class="accent-green">●</tspan> CONNECTED  <tspan class="accent-cyan">⚡</tspan> ANIMATED  <tspan class="accent-gold">◆</tspan> PREMIUM  <tspan class="text-muted">|  Lines: 44  |  Chars: 80</tspan></text>
+</svg>
